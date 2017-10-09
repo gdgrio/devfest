@@ -13,12 +13,12 @@ exclude: ['/logistics/','/hackaton/','/automation/', 'README.md', 'LICENSE.txt',
 title: "GDG DevFest Season 2017"
 email: "rio.gdg@gmail.com"
 description: "GDG DevFest é evento que acontece duranto todo mundo"
-baseurl: ""
-url: "https://devfestrj.github.io"
+baseurl: "/devfestrj.github.io/"
+url: "https://gdgrio.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: ""
+siteVerification: ""
 
 # Organizer Info
 organizerName: "GDG Rio de Janeiro"
