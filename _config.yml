@@ -6,7 +6,7 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/logistics/','/hackaton/','/automation/','/team/', 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['/logistics/','/hackaton/','/automation/','/team/','schedule', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
