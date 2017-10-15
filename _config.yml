@@ -6,14 +6,14 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/logistics/','/hackaton/','/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['/logistics/','/hackaton/','/automation/','/team/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2017"
+title: "Devfest Rio de Janeiro 2017"
 email: "rio.gdg@gmail.com"
-description: "GDG DevFest é evento que acontece duranto todo mundo"
-baseurl: "/devfestrj.github.io/"
+description: "GDG DevFest é um evento que acontece durante todo ano pelo mundo inteiro com foco em falar sobre novas tecnologias que envolvem software e tecnologias relacionadas ao Google."
+baseurl: "/devfest"
 url: "https://gdgrio.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
@@ -45,7 +45,6 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
- - {permalink: "/team/", text: "Time"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Call4Papers"}
 rightNavigationButtons:
@@ -54,7 +53,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2017"
-eventDate: "25 de Novembro de 2017"
+eventDate: "25 de Novembro de 2017 - 09h às 18h"
 typeoutTextValues: '"", "Rio de Janeiro", "Duque de Caxias", "Petropólis", "Três Rios"'
 typeoutFallback: "Rio de Janeiro"
 heroButtons:
@@ -111,13 +110,13 @@ venueFeatures: ["Localizado no centro da cidade."]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+tweetsFeedTitle: "Venha compartilhar conhecimento conosco!"
+twitterHashTag: "devfestrio"
+twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizadores"
-partnersTitle: "Parceiros"
+partnersTitle: "Patrocinadores"
 partnersC4sponsorsButton: "Seja um patrocinador"
 
 # Subscribe Block
