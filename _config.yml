@@ -15,7 +15,6 @@ email: "rio.gdg@gmail.com"
 description: "GDG DevFest é um evento que acontece durante todo ano pelo mundo inteiro com foco em falar sobre novas tecnologias que envolvem software e tecnologias relacionadas ao Google."
 baseurl: "/devfest"
 url: "https://gdgrio.github.io"
-permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
 siteVerification: ""
@@ -43,7 +42,6 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Call4Papers"}
@@ -64,7 +62,7 @@ heroButtons:
 aboutTitle: "Sobre o DevFest Rio de Janeiro"
 aboutBlock:
  - {title: "Conferência", image: "conference.jpg", text: "O maior evento de tecnologia do Google no Rio de Janeiro, feito com carinho pela comunidade do GDG RJ." }
- - {title: "Launchpad", image: "workshop.jpg", text: "Teremos mentoria para os interessados em empreendedorismo com o Experts do Google." }
+ - {title: "Launchpad Build", image: "workshop.jpg", text: "Teremos mentoria para os interessados em empreendedorismo com o Experts do Google." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
