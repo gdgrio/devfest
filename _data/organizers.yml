@@ -1,7 +1,7 @@
 - 
   group: "Organizador"
   elements: 
-    - {name: "GDG Rio de Janeiro", description: "GDG Rio - Comunidade aberta voltada para tecnologias Google", link: "https://gdgrio.github.io/page/", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Rio de Janeiro", description: "GDG Rio - Comunidade aberta voltada para tecnologias Google", link: "https://gdgrio.github.io/page/", imageUrl: "logo-gdg-rio.png"}
 - 
   group: "Co-organização"
   elements: 
