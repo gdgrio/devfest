@@ -13,7 +13,7 @@ exclude: ['/logistics/','/hackaton/','/automation/','/team/','/schedule/', 'READ
 title: "Devfest Rio de Janeiro 2017"
 email: "rio.gdg@gmail.com"
 description: "GDG DevFest é um evento que acontece durante todo ano pelo mundo inteiro com foco em falar sobre novas tecnologias que envolvem software e tecnologias relacionadas ao Google."
-baseurl: ""
+baseurl: "/"
 url: "https://gdgrio.github.io/devfest/"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
