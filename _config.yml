@@ -50,7 +50,7 @@ rightNavigationButtons:
  - {link: "https://goo.gl/forms/vCmFNvTTfoMflFVR2", text: "Call4Papers"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "1920x1080.png"
 heroTitle: "GDG DevFest <typeout> 2017"
 eventDate: "25 de Novembro de 2017 - 09h às 18h"
 typeoutTextValues: '"", "Rio de Janeiro", "Duque de Caxias", "Petropólis", "Três Rios"'
