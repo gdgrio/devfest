@@ -4,4 +4,4 @@ title:  "O que é o GDG?"
 date:   2017-10-14 09:00:00
 isStaticPost: false
 ---
-Somos uma comunidade aberta que tem como objetivo falar de tecnologias Frontend, Backend, Cloud, Mobile e etc com foco nas ferramentas e lingugagens que o Google disponibiliza.
+Somos uma comunidade aberta que tem como objetivo falar de tecnologias Frontend, Backend, Cloud, Mobile e etc. com foco nas ferramentas e linguagens que o Google disponibiliza.
