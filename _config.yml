@@ -71,7 +71,8 @@ statisticBlock:
  - {count: "350", specialCharacter: "+", info: "participantes", detail: "de todo Brasil"}
  - {count: "8", specialCharacter: "+", info: "horas", detail: "de pura tecnologia"}
  - {count: "10", specialCharacter: "+", info: "palestrantes", detail: "do país e do mundo"}
- - {count: "2", specialCharacter: "", info: "trilhas paralelas", detail: "mais o networking no lounge e coffee break"}
+ - {count: "1", specialCharacter: "", info: "trilha", detail: "mais o networking no lounge e coffee break"}
+ - {count: "1", specialCharacter: "", info: "Launchpad", detail: "durante o evento teremos o launch build do Google"}
 
 # Latest News Block
 latestNewsTitle: ""
