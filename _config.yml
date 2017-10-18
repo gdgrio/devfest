@@ -6,7 +6,7 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/logistics/','/hackaton/','/automation/','/team/','/schedule/', 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['/logistics/','/hackaton/','/automation/','/team/','/schedule/',/speakers/, 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
@@ -36,18 +36,18 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://goo.gl/forms/vCmFNvTTfoMflFVR2"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/speakers/", text: "Palestrantes"}
+ #- {permalink: "/speakers/", text: "Palestrantes"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Call4Papers"}
+ - {link: "https://goo.gl/forms/vCmFNvTTfoMflFVR2", text: "Call4Papers"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Call4Papers"}
+ - {link: "https://goo.gl/forms/vCmFNvTTfoMflFVR2", text: "Call4Papers"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -56,7 +56,7 @@ eventDate: "25 de Novembro de 2017 - 09h às 18h"
 typeoutTextValues: '"", "Rio de Janeiro", "Duque de Caxias", "Petropólis", "Três Rios"'
 typeoutFallback: "Rio de Janeiro"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Call4Papers"}
+ - {link: "https://goo.gl/forms/vCmFNvTTfoMflFVR2", text: "Call4Papers"}
  - {permalink: "/#tickets", text: "Ingressos"}
 
 # About Block
@@ -128,43 +128,81 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 ticketsTitle: "Ingressos"
 ticketsInfo: "Os ingressos dão acesso a todos a seções da conferência e coffee. Acomodação NÃO está inclusa no valor do ingresso."
 ticketsOffers:
- -
-  name: "1° Lote"
-  price: "60"
-  priceCurrency: "R$"
-  ticketsNumber: "50"
-  ribbon: ""
-  buyButtonLink: "https://www.sympla.com.br/"
-  buyButtonText: "Compre Agora"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-10-22T10:00"
-  validThrough: "2017-11-06T10:00"
+  -
+    name: "1° Lote(Sem Camisa)"
+    price: "30"
+    priceCurrency: "R$"
+    ticketsNumber: "60"
+    ribbon: ""
+    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
+    buyButtonText: "Compre Agora"
+    ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+    validFrom: "2017-10-18T12:00"
+    validThrough: "2017-10-29T00:00"
 
- -
-  name: "2° Lote"
-  price: "80"
-  priceCurrency: "R$"
-  ticketsNumber: "150"
-  ribbon: ""
-  buyButtonLink: "https://www.sympla.com.br/"
-  buyButtonText: "Compre Agora"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-11-06T10:00"
-  validThrough: "2017-11-13T10:00"
-  disabled: true
+  -
+    name: "1° Lote(Com Camisa)"
+    price: "60"
+    priceCurrency: "R$"
+    ticketsNumber: "60"
+    ribbon: ""
+    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
+    buyButtonText: "Compre Agora"
+    ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+    validFrom: "2017-10-18T12:00"
+    validThrough: "2017-10-29T00:00"
 
- -
-  name: "3° Lote"
-  price: "100"
-  priceCurrency: "R$"
-  ticketsNumber: "150"
-  ribbon: ""
-  buyButtonLink: "https://www.sympla.com.br/"
-  buyButtonText: "Compre Agora"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-11-13T10:00"
-  validThrough: "2017-11-24T10:00"
-  disabled: true
+  -
+    name: "2° Lote(Sem Camisa)"
+    price: "40"
+    priceCurrency: "R$"
+    ticketsNumber: "80"
+    ribbon: ""
+    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
+    buyButtonText: "Compre Agora"
+    ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+    validFrom: "2017-10-30T10:00"
+    validThrough: "2017-11-15T10:00"
+    disabled: true
+
+  -
+    name: "2° Lote(Com Camisa)"
+    price: "80"
+    priceCurrency: "R$"
+    ticketsNumber: "80"
+    ribbon: ""
+    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
+    buyButtonText: "Compre Agora"
+    ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+    validFrom: "2017-10-30T10:00"
+    validThrough: "2017-11-15T10:00"
+    disabled: true
+
+  -
+    name: "3° Lote(Sem Camisa)"
+    price: "50"
+    priceCurrency: "R$"
+    ticketsNumber: "60"
+    ribbon: ""
+    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
+    buyButtonText: "Compre Agora"
+    ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+    validFrom: "2017-11-15T10:00"
+    validThrough: "2017-11-24T23:59"
+    disabled: true
+
+  -
+    name: "3° Lote(Com Camisa)"
+    price: "100"
+    priceCurrency: "R$"
+    ticketsNumber: "60"
+    ribbon: ""
+    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
+    buyButtonText: "Compre Agora"
+    ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+    validFrom: "2017-11-15T10:00"
+    validThrough: "2017-11-24T23:59"
+    disabled: true
 
 # Footer
 socialLinks:
