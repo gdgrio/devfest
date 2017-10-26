@@ -149,8 +149,7 @@ ticketsOffers:
     buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
     buyButtonText: "Compre Agora"
     ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-    validFrom: "2017-10-18T12:00"
-    validThrough: "2017-10-29T00:00"
+    soldOut: true
 
   -
     name: "2° Lote(Sem Camisa)"
@@ -161,8 +160,6 @@ ticketsOffers:
     buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
     buyButtonText: "Compre Agora"
     ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-    validFrom: "2017-10-30T10:00"
-    validThrough: "2017-11-15T10:00"
     disabled: true
 
   -
@@ -174,9 +171,6 @@ ticketsOffers:
     buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
     buyButtonText: "Compre Agora"
     ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-    validFrom: "2017-10-30T10:00"
-    validThrough: "2017-11-15T10:00"
-    disabled: true
 
   -
     name: "3° Lote(Sem Camisa)"
