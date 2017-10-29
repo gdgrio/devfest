@@ -18,3 +18,11 @@
   language: pt-br
   complexity: "Iniciante"
 
+-
+  id: 002
+  title: "PolymerRedux - State Management Made Simple"
+  description:  "Libraries como React e polyfills como Polymer, trazem a tona os grandes benefícios de se desenvolver um projeto baseado em componentes e por quê devemos trabalhar com estados. Neste cenário, temos vivenciado o aumento de aplicações web que fazem uso de Gerenciamento de Estado, e como este tipo de ferramenta auxilia bastante em diversas tarefas. Mas o que houve com o MVC? Ele morreu? Nesta palestra, iremos aprender como funciona a arquitetura Flux, seus princípios, descobrir em quais cenários utilizar este tipo de arquitetura, vamos utilizar o Redux (uma das implementações do Flux mais famosas e utilizadas) para gerenciar o estado de nossas aplicações em nossos projetos client side, utilizando Polymer."
+  subtype: presentation
+  speakers: [2]
+  language: pt-br
+  complexity: "Intermediário"

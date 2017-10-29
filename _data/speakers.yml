@@ -12,5 +12,19 @@
     - {name: "twitter", link: "https://twitter.com/afonsopacifer"}
     - {name: "github", link: "https://github.com/afonsopacifer"}
     - {name: "site", link: "https://afonsopacifer.github.io/"}
+- 
+  id: 2
+  name: "Yan"
+  surname: "Magalhães"
+  company: "4YouSee Digital Signage"
+  title: "Full Stack Web Developer"
+  bio: "Yan Magalhães é full stack developer e graduado em Ciências da Computação. Apaixonado pela web, está sempre acompanhando as novas tecnologias e tendências. Participa sempre que pode dos eventos e encontros promovidos pela comunidade, e é um dos organizadores do GDG-BH e do FEMUG-MG. Procura contribuir em projetos Open Source e acredita muito no poder que as soluções desenvolvidas por nós, desenvolvedores, que podem mudar o dia-a-dia das pessoas. Adora uma boa conversa acompanhada de café e pão de queijo."
+  thumbnailUrl: YanMagale.jpeg
+  rockstar: true
+  ribbon: 
+  social: 
+    - {name: "twitter", link: "https://twitter.com/yaanmagale"}
+    - {name: "github", link: "https://github.com/yanmagale"}
+    - {name: "site", link: "http://yanmagalhaes.com.br/"}
 
 

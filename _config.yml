@@ -6,7 +6,7 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/logistics/','/hackaton/','/automation/','/team/','/schedule/',/speakers/, 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['/logistics/','/hackaton/','/automation/','/team/','/schedule/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- #- {permalink: "/speakers/", text: "Palestrantes"}
+ - {permalink: "/speakers/", text: "Palestrantes"}
 bottomNavigationLinks:
  - {link: "https://goo.gl/forms/vCmFNvTTfoMflFVR2", text: "Call4Papers"}
 rightNavigationButtons:
@@ -63,7 +63,6 @@ heroButtons:
 aboutTitle: "Sobre o DevFest Rio de Janeiro"
 aboutBlock:
  - {title: "Conferência", image: "conference.jpg", text: "O maior evento de tecnologia do Google no Rio de Janeiro, feito com carinho pela comunidade do GDG RJ." }
- - {title: "Launchpad Build", image: "workshop.jpg", text: "Teremos mentoria para os interessados em empreendedorismo com o Experts do Google." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -139,6 +138,8 @@ ticketsOffers:
     ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
     validFrom: "2017-10-18T12:00"
     validThrough: "2017-10-29T00:00"
+    soldOut: true
+
 
   -
     name: "1° Lote(Com Camisa)"
@@ -160,7 +161,7 @@ ticketsOffers:
     buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
     buyButtonText: "Compre Agora"
     ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-    disabled: true
+    disabled: false
 
   -
     name: "2° Lote(Com Camisa)"
