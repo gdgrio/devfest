@@ -1,131 +1,164 @@
+--- 
 - 
-  id: 1
-  name: "Afonso"
-  surname: "Pacifer"
-  company: "Web Platform Evangelist"
-  title: "Web Platform Evangelist / Front-End consultant"
   bio: "Co-fundador e criador de conteúdo no CSShortcut e apresentador do CSS CastShow, Afonso defende do uso da plataforma nativa para a criação de aplicações Web. Hoje seu trabalho não é ir contra frameworks e bibliotecas, mas sim, tentar evitar que os mesmo não deixem os desenvolvedores cegos perante as maravilhas que a plataforma nativa tem a oferecer."
+  company: "Web Platform Evangelist"
+  id: 1
+  name: Afonso
+  ribbon: ~
+  rockstar: true
+  social: 
+    - 
+      link: "https://twitter.com/afonsopacifer"
+      name: twitter
+    - 
+      link: "https://github.com/afonsopacifer"
+      name: github
+    - 
+      link: "https://afonsopacifer.github.io/"
+      name: site
+  surname: Pacifer
   thumbnailUrl: AfonsoPacifer.jpg
-  rockstar: true
-  ribbon: 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/afonsopacifer"}
-    - {name: "github", link: "https://github.com/afonsopacifer"}
-    - {name: "site", link: "https://afonsopacifer.github.io/"}
+  title: "Web Platform Evangelist / Front-End consultant"
 - 
-  id: 2
-  name: "Yan"
-  surname: "Magalhães"
-  company: "4YouSee Digital Signage"
-  title: "Full Stack Web Developer"
   bio: "Yan Magalhães é full stack developer e graduado em Ciências da Computação. Apaixonado pela web, está sempre acompanhando as novas tecnologias e tendências. Participa sempre que pode dos eventos e encontros promovidos pela comunidade, e é um dos organizadores do GDG-BH e do FEMUG-MG. Procura contribuir em projetos Open Source e acredita muito no poder que as soluções desenvolvidas por nós, desenvolvedores, que podem mudar o dia-a-dia das pessoas. Adora uma boa conversa acompanhada de café e pão de queijo."
+  company: "4YouSee Digital Signage"
+  id: 2
+  name: Yan
+  ribbon: 
+     - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/pt-BR/GDG-BH/?chapter_analytics_code=UA-56275482-1"}
+  rockstar: true
+  social: 
+    - 
+      link: "https://twitter.com/yaanmagale"
+      name: twitter
+    - 
+      link: "https://github.com/yanmagale"
+      name: github
+    - 
+      link: "http://yanmagalhaes.com.br/"
+      name: site
+  surname: Magalhães
   thumbnailUrl: YanMagale.jpeg
-  rockstar: true
-  ribbon: 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/yaanmagale"}
-    - {name: "github", link: "https://github.com/yanmagale"}
-    - {name: "site", link: "http://yanmagalhaes.com.br/"}
-
+  title: "Full Stack Web Developer"
 - 
-  id: 3
-  name: "Lays"
-  surname: "Rodrigues"
-  company: "TV Globo"
-  title: "Estagiária"
   bio: "Lays Rodrigues é desenvolvedora e atualmente estagia na Rede Globo. No tempo livre desenvolve um printer host para impressão 3D, chamado Atelier, além de fazer parte da comunidade de Software Livre do KDE. Já palestrou em algumas edições da Campus Party Brasil, The Developers Conference, e no PythonRio, falando sobre programação e invenção de moda. Cursa Sistemas de Informação na UFF desde 2017, mas a primeira matrícula é de 2011(Já é patrimônio) e é apaixonada por Doctor Who. Allons-y!"
-  thumbnailUrl: lays_rodrigues.jpg
+  company: "TV Globo"
+  id: 3
+  name: Lays
+  ribbon: ~
   rockstar: true
-  ribbon: 
   social: 
-    - {name: "twitter", link: "https://twitter.com/lays147"}
-    - {name: "github", link: "https://github.com/lays147"}
-    - {name: "linkedin", link: " https://www.linkedin.com/in/laysrodrigues147/"}
-
+    - 
+      link: "https://twitter.com/lays147"
+      name: twitter
+    - 
+      link: "https://github.com/lays147"
+      name: github
+    - 
+      link: " https://www.linkedin.com/in/laysrodrigues147/"
+      name: linkedin
+  surname: Rodrigues
+  thumbnailUrl: lays_rodrigues.jpg
+  title: Estagiária
 - 
-  id: 4
-  name: "Bernard"
-  surname: "de Luna"
-  company: "Bunee.io"
-  title: "Co-founder"
   bio: ""
+  company: Bunee.io
+  id: 4
+  name: Bernard
+  ribbon: ~
+  rockstar: true
+  surname: "de Luna"
   thumbnailUrl: Bernard_De_Luna_.jpg
-  rockstar: true
-  ribbon: 
-
+  title: Co-founder
 - 
-  id: 5
-  name: "Thaise"
-  surname: "Dantas"
-  company: "Stone Pagamentos"
-  title: "Analista de Teste"
   bio: "Desenvolvedora de software na Stone Pagamentos, formada em Sistemas de Informação pela FEUC-RJ. Pouco mais cinco anos de experiência no mercado de TI, passando por áreas de suporte, QA, e agora encarando desafios na arte de codar. Apaixonada por tecnologia e surf."
-  thumbnailUrl: Thaise.png
-  rockstar: true
-  ribbon: 
-
-- 
-  id: 6
-  name: "Diego"
-  surname: "Ramos"
-  company: "99"
-  title: "Full stack developer"
-  bio: "Open Source enthusiast, developer for over 10 years, I believe we can make the world much more "practical" with technology."
-  thumbnailUrl: Diego_Ramos.png
-  rockstar: true
-  ribbon: 
-
-- 
-  id: 7
-  name: "Eduardo"
-  surname: "Costa"
-  company: "99"
-  title: "Engenheiro de Software"
-  bio: "Eduardo Costa trabalha com desenvolvimento de software há 8 anos, tendo atuado com Scala, Java, Node.js e C#. Atualmente trabalha na 99 ajudando a desenvolver a mobilidade urbana no país, mas já esteve em outras empresas como Wappa, Maplink, Apontador e Minuto Seguros. Possui bacharel em Ciência da Computação."
-  thumbnailUrl: Eduardo_Costa.png
-  rockstar: true
-  ribbon: 
-
-- 
-  id: 8
-  name: "João"
-  surname: "Freitas"
   company: "Stone Pagamentos"
-  title: "Desenvolvedor Android"
+  id: 5
+  name: Thaise
+  ribbon: ~
+  rockstar: true
+  surname: Dantas
+  thumbnailUrl: Thaise.png
+  title: "Analista de Teste"
+- 
+  bio: "Open Source enthusiast, developer for over 10 years, I believe we can make the world much more practical with technology."
+  company: "99"
+  id: 6
+  name: Diego
+  ribbon: ~
+  rockstar: true
+  surname: Ramos
+  thumbnailUrl: Diego_Ramos.png
+  title: "Full stack developer" 
+- 
+  bio: "Eduardo Costa trabalha com desenvolvimento de software há 8 anos, tendo atuado com Scala, Java, Node.js e C#. Atualmente trabalha na 99 ajudando a desenvolver a mobilidade urbana no país, mas já esteve em outras empresas como Wappa, Maplink, Apontador e Minuto Seguros. Possui bacharel em Ciência da Computação."
+  company: "99"
+  id: 7
+  name: Eduardo
+  ribbon: ~
+  rockstar: true
+  surname: Costa
+  thumbnailUrl: Eduardo_Costa.png
+  title: "Engenheiro de Software"
+- 
   bio: "developer and hero of Hyrule"
+  company: "Stone Pagamentos"
+  id: 8
+  name: João
+  ribbon: ~
+  rockstar: true
+  social: 
+    - 
+      link: "https://github.com/jgabrielfreitas"
+      name: github
+  surname: Freitas
   thumbnailUrl: joao_freitas.jpeg
-  rockstar: true
-  ribbon: 
-
+  title: "Desenvolvedor Android"
 - 
-  id: 9
-  name: "Isabella"
-  surname: "Silveira"
-  company: "Work&Co"
-  title: "Desenvolvedora"
   bio: "Isabella Silveira, ou só Isa mesmo, é uma grande entusiasta de Machine Learning e atualmente trabalha como desenvolvedora na Work & Co. Nas horas livres, tenta automatizar sua vida, brinca com seus cachorros e pesquisa sobre novas tecnologias."
+  company: Work&Co
+  id: 9
+  name: Isabella
+  ribbon: ~
+  rockstar: true
+  social: 
+    - 
+      link: "http://twitter.com/silveira_bells"
+      name: github
+    - 
+      link: "https://github.com/jgabrielfreitas"
+      name: twitter
+    - 
+      link: "https://br.linkedin.com/in/isabellasilveira"
+      name: linkedin
+    - 
+      link: "https://facebook.com/bella-silveira"
+      name: facebook
+  surname: Silveira
   thumbnailUrl: isabella_silveira.jpg
-  rockstar: true
-  ribbon:
-
+  title: Desenvolvedora
 - 
-  id: 10
-  name: "Raphael"
-  surname: "Amorim"
-  company: "globo.com"
-  title: "Software Developer"
   bio: "Entusiasta da open web e software livre. Software Developer na globo.com e membro da JS foundation. Já trabalhou como desenvolvedor em empresas como Videolog e Petrobras."
+  company: globo.com
+  id: 10
+  name: Raphael
+  ribbon: ~
+  rockstar: true
+  social: 
+    - 
+      link: "https://github.com/raphamorim"
+      name: github
+  surname: Amorim
   thumbnailUrl: raphael_amorim.jpg
-  rockstar: true
-  ribbon:
-
-- 
-  id: 11
-  name: "Michael"
-  surname: "Dorka"
-  company: "decolar.com"
   title: "Software Developer"
+- 
   bio: "Michael is UX evangelist and in charge of research and innovation atdespegar.com. Additional Google certifies Michael officially as Design Sprint Master and as UX-, UI-and User Research Expert of the International Google Developer Experts Program.Michael Dorka has more then 6 years of experience as entrepreneur of various companies and more then 15 years of experience as a professional designer and consult. This is why Michael participates as mentor for startups from emerging markets at the Google Launchpad program."
-  thumbnailUrl: michael_dorka.jpg
+  company: decolar.com
+  id: 11
+  name: Michael
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   rockstar: true
-  ribbon: ['GDE']
+  surname: Dorka
+  thumbnailUrl: michael_dorka.jpg
+  title: "Software Developer"
