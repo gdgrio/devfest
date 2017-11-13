@@ -26,3 +26,84 @@
   speakers: [2]
   language: pt-br
   complexity: "Intermediário"
+
+-
+  id: 003
+  title: "Qt - O seu toolkit para C++ ou Python com o verdadeiro: Write once, deploys everywhere!"
+  description:  "Qt é um dos melhores frameworks que eu já usei para desenvolvimento de software. Com toda a tecnologia e poder colocados nessa ferramenta, você realmente consegue facilitar o desenvolvimento de qualquer software, seja usando a abstração de sistema que o Qt proporciona ou em desenvolvimento ágil de interfaces: simples, leves e flexíveis. Nesta palestra eu apresentarei para você um pouquinho do poder que o Qt pode te dar no desenvolvimento do seu software. Você pode não conhecer Qt,mas é bem provável que você já usou algum software que foi construído com ele."
+  subtype: presentation
+  speakers: [3]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 004
+  title: "O que não lhe contaram sobre a carreira de DEV"
+  description:  "Nessa talk vamos falar sobre o mercado de contratação de programadores, com muitas métricas, pesquisas e hacks."
+  subtype: presentation
+  speakers: [4]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 005
+  title: "Testes! E aí de quem é essa responsabilidade?"
+  description:  "A intenção da palestra é debater um pouco sobre a responsabilidade dos testes de softwtare. Abordando assuntos como testes manuais, automatizados, teste de unidade, testes de integração, coverage, dentre outros. Afim de que se reflita mais sobre a importância da qualidade de software."
+  subtype: presentation
+  speakers: [5]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 006
+  title: "Helmet explanation"
+  description:  "Um módulo para NodeJS que ajudará a deixar sua aplicação web mais segura."
+  subtype: presentation
+  speakers: [6]
+  language: pt-br
+  complexity: "Intermediário"
+
+-
+  id: 007
+  title: "Construindo sistemas reativos com Lagom framework"
+  description:  "Nesta apresentação, será abordado o manifesto reativo e suas ideias para permitir criar sistemas mais fléxiveis, desacoplados e escaláveis, usando os conceitos de responsividade, resiliência, elasticidade e orientação a mensagens. Para ajudar no desenvolvimento de microserviços usando os conceitos de sistemas reativos, será apresentado o framework Lagom, este construído sobre o ecossistema da Lightbend e usando bibliotecas como Play e Akka e com suporte para as linguagens Java e Scala. Diversos conceitos de programação serão abordados como Back Pressure, CQRS, Event Sourcing, Streams, Circuit Breaker, Service Locator e Message Broker."
+  subtype: presentation
+  speakers: [7]
+  language: pt-br
+  complexity: "Intermediário"
+
+-
+  id: 008
+  title: "SOLID no Android"
+  description:  "SOLID, um conjunto de conceitos que podem salvar seu projeto."
+  subtype: presentation
+  speakers: [8]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 009
+  title: "Art attack para robôs: ensinando arte à máquina"
+  description:  "Machine learning vem revolucionando o mercado tecnológico com soluções cada vez mais arrojadas: algoritmos de recomendações que sabem exatamente do que gostamos, fones de ouvido capazes de traduzir conversas inteiras em tempo real e até poder preditivo para nos ajudar a adivinhar o futuro. Mas e quanto à arte? Podemos ter máquinas criativas e inteligentes o suficiente capaz de produzir arte? O que acontece quando juntamos poder computacional e as obras dos maiores artistas que a história já viu? É o que você vai descobrir nessa incrível jornada rumo ao desconhecido e o inusitado mundo do aprendizado de máquina."
+  subtype: presentation
+  speakers: [9]
+  language: pt-br
+  complexity: "Intermediário"
+
+-
+  id: 010
+  title: "Making for the Web with WebAssembly"
+  description:  "A ideia da palestra é falar da realidade do WebAssembly e como começar a brincar."
+  subtype: presentation
+  speakers: [10]
+  language: pt-br
+  complexity: "Intermediário"
+
+-
+  id: 011
+  title: "Google Design Sprints"
+  description:  "A ideia da palestra é falar da realidade do WebAssembly e como começar a brincar."
+  subtype: presentation
+  speakers: [11]
+  language: en-us
+  complexity: ""
