@@ -107,3 +107,12 @@
   speakers: [11]
   language: en-us
   complexity: ""
+
+-
+  id: 012
+  title: "Paralelismo, concorrência e Scala"
+  description:  "Quais são as ferramentas disponíveis para construir sistemas concorrentes e paralelos no ecossistema Scala. O que é o modelo de Atores e como isso pode ajudar a construir sistemas melhores com Akka em Scala."
+  subtype: presentation
+  speakers: [12, 13]
+  language: pt-br
+  complexity: "Iniciante"

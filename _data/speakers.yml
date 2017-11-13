@@ -162,3 +162,25 @@
   surname: Dorka
   thumbnailUrl: michael_dorka.jpg
   title: "Software Developer"
+
+- 
+  bio: ""
+  company: 99
+  id: 12
+  name: Walkirya 
+  ribbon: ~
+  rockstar: true
+  surname: Heto
+  thumbnailUrl: walkyria_heto.jpg
+  title: "Software Developer"
+
+- 
+  bio: ""
+  company: 99
+  id: 13
+  name: Leonardo
+  ribbon: ~
+  rockstar: true
+  surname: Figueiredo
+  thumbnailUrl: leo_figueiredo.jpg
+  title: "Software Engineer and Team Leader"
