@@ -53,4 +53,79 @@
   rockstar: true
   ribbon: 
 
+- 
+  id: 5
+  name: "Thaise"
+  surname: "Dantas"
+  company: "Stone Pagamentos"
+  title: "Analista de Teste"
+  bio: "Desenvolvedora de software na Stone Pagamentos, formada em Sistemas de Informação pela FEUC-RJ. Pouco mais cinco anos de experiência no mercado de TI, passando por áreas de suporte, QA, e agora encarando desafios na arte de codar. Apaixonada por tecnologia e surf."
+  thumbnailUrl: Thaise.png
+  rockstar: true
+  ribbon: 
 
+- 
+  id: 6
+  name: "Diego"
+  surname: "Ramos"
+  company: "99"
+  title: "Full stack developer"
+  bio: "Open Source enthusiast, developer for over 10 years, I believe we can make the world much more "practical" with technology."
+  thumbnailUrl: Diego_Ramos.png
+  rockstar: true
+  ribbon: 
+
+- 
+  id: 7
+  name: "Eduardo"
+  surname: "Costa"
+  company: "99"
+  title: "Engenheiro de Software"
+  bio: "Eduardo Costa trabalha com desenvolvimento de software há 8 anos, tendo atuado com Scala, Java, Node.js e C#. Atualmente trabalha na 99 ajudando a desenvolver a mobilidade urbana no país, mas já esteve em outras empresas como Wappa, Maplink, Apontador e Minuto Seguros. Possui bacharel em Ciência da Computação."
+  thumbnailUrl: Eduardo_Costa.png
+  rockstar: true
+  ribbon: 
+
+- 
+  id: 8
+  name: "João"
+  surname: "Freitas"
+  company: "Stone Pagamentos"
+  title: "Desenvolvedor Android"
+  bio: "developer and hero of Hyrule"
+  thumbnailUrl: joao_freitas.jpeg
+  rockstar: true
+  ribbon: 
+
+- 
+  id: 9
+  name: "Isabella"
+  surname: "Silveira"
+  company: "Work&Co"
+  title: "Desenvolvedora"
+  bio: "Isabella Silveira, ou só Isa mesmo, é uma grande entusiasta de Machine Learning e atualmente trabalha como desenvolvedora na Work & Co. Nas horas livres, tenta automatizar sua vida, brinca com seus cachorros e pesquisa sobre novas tecnologias."
+  thumbnailUrl: isabella_silveira.jpg
+  rockstar: true
+  ribbon:
+
+- 
+  id: 10
+  name: "Raphael"
+  surname: "Amorim"
+  company: "globo.com"
+  title: "Software Developer"
+  bio: "Entusiasta da open web e software livre. Software Developer na globo.com e membro da JS foundation. Já trabalhou como desenvolvedor em empresas como Videolog e Petrobras."
+  thumbnailUrl: raphael_amorim.jpg
+  rockstar: true
+  ribbon:
+
+- 
+  id: 11
+  name: "Michael"
+  surname: "Dorka"
+  company: "decolar.com"
+  title: "Software Developer"
+  bio: "Michael is UX evangelist and in charge of research and innovation atdespegar.com. Additional Google certifies Michael officially as Design Sprint Master and as UX-, UI-and User Research Expert of the International Google Developer Experts Program.Michael Dorka has more then 6 years of experience as entrepreneur of various companies and more then 15 years of experience as a professional designer and consult. This is why Michael participates as mentor for startups from emerging markets at the Google Launchpad program."
+  thumbnailUrl: michael_dorka.jpg
+  rockstar: true
+  ribbon: ['GDE']
