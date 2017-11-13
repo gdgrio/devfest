@@ -42,4 +42,15 @@
     - {name: "github", link: "https://github.com/lays147"}
     - {name: "linkedin", link: " https://www.linkedin.com/in/laysrodrigues147/"}
 
+- 
+  id: 4
+  name: "Bernard"
+  surname: "de Luna"
+  company: "Bunee.io"
+  title: "Co-founder"
+  bio: ""
+  thumbnailUrl: Bernard_De_Luna_.jpg
+  rockstar: true
+  ribbon: 
+
 
