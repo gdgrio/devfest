@@ -27,4 +27,19 @@
     - {name: "github", link: "https://github.com/yanmagale"}
     - {name: "site", link: "http://yanmagalhaes.com.br/"}
 
+- 
+  id: 3
+  name: "Lays"
+  surname: "Rodrigues"
+  company: "TV Globo"
+  title: "Estagiária"
+  bio: "Lays Rodrigues é desenvolvedora e atualmente estagia na Rede Globo. No tempo livre desenvolve um printer host para impressão 3D, chamado Atelier, além de fazer parte da comunidade de Software Livre do KDE. Já palestrou em algumas edições da Campus Party Brasil, The Developers Conference, e no PythonRio, falando sobre programação e invenção de moda. Cursa Sistemas de Informação na UFF desde 2017, mas a primeira matrícula é de 2011(Já é patrimônio) e é apaixonada por Doctor Who. Allons-y!"
+  thumbnailUrl: lays_rodrigues.jpg
+  rockstar: true
+  ribbon: 
+  social: 
+    - {name: "twitter", link: "https://twitter.com/lays147"}
+    - {name: "github", link: "https://github.com/lays147"}
+    - {name: "linkedin", link: " https://www.linkedin.com/in/laysrodrigues147/"}
+
 
