@@ -146,8 +146,8 @@
 
 -
   id: 016
-  title: "ContraintLayout: Para sua saúde e a do seu App."
-  description:  "Certamente o desenvolvedor Android que passou pelo desafio de transformar em realidade  o layout bonitão, do designer, sofreu um bocado até pegar o jeito de pensar nas hierarquias dos elementos bem como nas Views e ViewGroups aninhadas. Além dessa preocupação temos que pensar na otimização dos layouts buscando entre outras coisas diminuir a árvore hierárquica deles. Todas essas preocupações podem ser reduzidas com o uso do ContraintLayout junto ao poderoso Layout Editor. Você precisa aprender isso de uma vez por todas, para sua saúde e a do seu App!"
+  title: "ConstraintLayout: Para sua saúde e a do seu App."
+  description:  "Certamente o desenvolvedor Android que passou pelo desafio de transformar em realidade o layout bonitão, do designer, sofreu um bocado até pegar o jeito de pensar nas hierarquias dos elementos bem como nas Views e ViewGroups aninhadas. Além dessa preocupação temos que pensar na otimização dos layouts buscando entre outras coisas diminuir a árvore hierárquica deles. Todas essas preocupações podem ser reduzidas com o uso do ConstraintLayout junto ao poderoso Layout Editor. Você precisa aprender isso de uma vez por todas, para sua saúde e a do seu App!"
   subtype: presentation
   speakers: [17]
   language: pt-br
@@ -208,3 +208,24 @@ Nesta dinâmica, iremos rodar uma partida do jogo Keep Talking and Nobody Explod
   speakers: [24]
   language: pt-br
   complexity: "Iniciante"
+
+-
+  id: 023
+  title: "Credenciamento"
+  place: "Hall"
+  service: true
+  description: "Tragam seus comprovantes de inscrição emitidos pelo Sympla para fazermos o credencimento."
+
+-
+  id: 024
+  title: "Abertura"
+  place: ""
+  service: true
+
+-
+  id: 025
+  title: "Encerramento"
+  place: ""
+  service: true
+
+

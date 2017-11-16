@@ -2,20 +2,96 @@
   date: "2017-11-25"
   dateReadable: "25 de Novembro"
   tracks: 
-    - {title: "Principal", color: "#e91e63"}
+    - {title: "Cristo Redentor", color: "#e91e63"}
+    - {title: "Pão de Açucar", color: "#ffff1a"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [001]
+    	startTime: "08:30",
+    	endTime: "09:00",
+    	sessionIds: [023]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
+    	startTime: "09:00",
+    	endTime: "09:15",
+    	sessionIds: [024]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
+        startTime: "09:15",
+        endTime: "09:55",
+        sessionIds: [004]
     }
+    - {
+        startTime: "10:00",
+        endTime: "10:40",
+        sessionIds: [001, 003]
+    }
+    - {
+        startTime: "10:40",
+        endTime: "11:20",
+        sessionIds: [022, 008]
+    }
+    - {
+        startTime: "11:20",
+        endTime: "12:00",
+        sessionIds: [015, 007]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionIds: [503]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:40",
+        sessionIds: [012, 018]
+    }
+    - {
+        startTime: "13:40",
+        endTime: "14:20",
+        sessionIds: [014, 021]
+    }
+    - {
+        startTime: "14:20",
+        endTime: "15:00",
+        sessionIds: [019, 006]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "15:30",
+        sessionIds: [307]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "16:10",
+        sessionIds: [002, 016]
+    }
+    - {
+        startTime: "16:10",
+        endTime: "16:50",
+        sessionIds: [005, 013]
+    }
+    - {
+        startTime: "16:50",
+        endTime: "17:30",
+        sessionIds: [019, 006]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "18:10",
+        sessionIds: [009, 020]
+    }
+    - {
+        startTime: "18:10",
+        endTime: "18:50",
+        sessionIds: [010, 017]
+    }
+    - {
+        startTime: "18:50",
+        endTime: "19:30",
+        sessionIds: [011]
+    }  
+    - {
+        startTime: "19:30",
+        endTime: "19:45",
+        sessionIds: [025]
+    } 
