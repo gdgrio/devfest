@@ -91,12 +91,19 @@
   thumbnailUrl: Diego_Ramos.png
   title: "Full stack developer" 
 - 
-  bio: "Eduardo Costa trabalha com desenvolvimento de software há 8 anos, tendo atuado com Scala, Java, Node.js e C#. Atualmente trabalha na 99 ajudando a desenvolver a mobilidade urbana no país, mas já esteve em outras empresas como Wappa, Maplink, Apontador e Minuto Seguros. Possui bacharel em Ciência da Computação."
+  bio: "Eduardo Costa trabalha com desenvolvimento de software há 8 anos, tendo atuado com Scala, Java, Node.js e C#. Atualmente trabalha na 99 ajudando a desenvolver a mobilidade urbana no país, mas já esteve em outras empresas como Wappa, Maplink, Apontador e Minuto Seguros."
   company: "99"
   id: 7
   name: Eduardo
   ribbon: ~
   rockstar: true
+  social:
+    -
+      link: "https://twitter.com/jeduardocosta"
+      name: twitter
+    -
+      link: "https://br.linkedin.com/in/jeduardocosta"
+      name: linkedin
   surname: Costa
   thumbnailUrl: Eduardo_Costa.png
   title: "Engenheiro de Software"
