@@ -115,6 +115,9 @@
   ribbon: ~
   rockstar: true
   social: 
+    -
+      link: "https://twitter.com/jgabrielfreitas"
+      name: twitter
     - 
       link: "https://github.com/jgabrielfreitas"
       name: github
