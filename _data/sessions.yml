@@ -102,7 +102,7 @@
 -
   id: 011
   title: "Google Design Sprints"
-  description:  "A ideia da palestra é falar da realidade do WebAssembly e como começar a brincar."
+  description:  ""
   subtype: presentation
   speakers: [11]
   language: en-us
@@ -114,5 +114,97 @@
   description:  "Quais são as ferramentas disponíveis para construir sistemas concorrentes e paralelos no ecossistema Scala. O que é o modelo de Atores e como isso pode ajudar a construir sistemas melhores com Akka em Scala."
   subtype: presentation
   speakers: [12, 13]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 013
+  title: "Usuário 'Especialista em UI': Como lidar com os 'Frontendzeiros' de PowerPoint"
+  description: "Durante a jornada pelo mundo do desenvolvimento, me deparei com diversas situações inusitadas. Uma delas, em que o time de negócio desenhava o 'frontend' no PowerPoint e insistia por uma diminuição no tempo de entrega do produto, já que eles já haviam 'desenvolvido o frontend'. Como lidar com isso? Como dar valor ao seu trabalho?Como fazer 'non-techs' entenderem que o buraco é mais embaixo?"
+  subtype: presentation
+  speakers: [14]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 014
+  title: "Hacking The Nintendo Game Boy with JavaScript"
+  description:  "Iremos olhar todos componentes internos do hardware, entender como funcionam, como é a criação de um emulador, disassmebly da ROM, graphic dumping e áudio. Usaremos JavaScript para tudo isso e alguns conhecimentos de assembly."
+  subtype: presentation
+  speakers: [15]
+  language: pt-br
+  complexity: "Avançado"
+
+-
+  id: 015
+  title: "Design Thinking para desenvolvedores: a empatia como fator crucial para o sucesso do produto"
+  description:  "Para um bom engajamento do usuário, é preciso se colocar no lugar dele, perceber suas necessidades e inovar para resolver seus problemas. Nesta palestra conto um pouco de como o Design Thinking pode ajudar a entender melhor o seu usuário e assim, conseguir fazer aplicações muito mais interessantes."
+  subtype: presentation
+  speakers: [16]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 016
+  title: "ContraintLayout: Para sua saúde e a do seu App."
+  description:  "Certamente o desenvolvedor Android que passou pelo desafio de transformar em realidade  o layout bonitão, do designer, sofreu um bocado até pegar o jeito de pensar nas hierarquias dos elementos bem como nas Views e ViewGroups aninhadas. Além dessa preocupação temos que pensar na otimização dos layouts buscando entre outras coisas diminuir a árvore hierárquica deles. Todas essas preocupações podem ser reduzidas com o uso do ContraintLayout junto ao poderoso Layout Editor. Você precisa aprender isso de uma vez por todas, para sua saúde e a do seu App!"
+  subtype: presentation
+  speakers: [17]
+  language: pt-br
+  complexity: "Intermediário"
+
+-
+  id: 017
+  title: "Keep Talking and Nobody Explodes: Trabalhando a Comunicação nos Times Ágeis"
+  description:  "Você está segurando uma bomba em suas mãos e só tem 5 minutos para desarmá-la. Você não faz parte de nenhum esquadrão antibomba, porém tem a seu dispor, um time de especialistas que possuem os manuais de desarmamento de todas as bombas do mundo. A única coisa que vocês precisam fazer é se comunicar bem, para que todos os módulos sejam desarmados e ninguém saia ferido!
+
+Nesta dinâmica, iremos rodar uma partida do jogo Keep Talking and Nobody Explodes com a plateia e depois iremos discutir sobre alguns aspectos de comunicação (bons e ruins) que são tão importantes na conversação dos times ágeis."
+  subtype: presentation
+  speakers: [18, 19]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 018
+  title: "Mantendo o usuário no seu site offline"
+  description:  "Você acreditaria se eu te contasse que é possível manter o usuário no seu site mesmo ele estando offline? Junte PWA's com games e o resultado é incrível, com um pouco de criatividade você deixa seu usuário feliz no pior momento do dia dele!"
+  subtype: presentation
+  speakers: [20]
+  language: pt-br
+  complexity: "Intermediário"
+
+-
+  id: 019
+  title: "Firebase e Parse Serve: Quando salvam e quando não."
+  description:  "Com a popularização dessas plataformas, quando elas devem ser consideradas e quando não? Que funcionalidades elas oferecem? Como estes recursos podem ser integrados a uma aplicação web?"
+  subtype: presentation
+  speakers: [21]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 020
+  title: "Testes Unitários Android + Dagger2"
+  description:  "Nesse talk iremos discutir as melhores formas de criar testes unitários para sua aplicação android que utiliza Dagger2. Qual a melhor decisão para a sua arquitetura?"
+  subtype: presentation
+  speakers: [22]
+  language: pt-br
+  complexity: "Intermediário"
+
+-
+  id: 021
+  title: "Boas Práticas & Clean Code com Golang"
+  description:  "Como utilizar boas práticas em Golang, usando os padrões e convenções da linguagem, assim como dar exemplos práticos de código limpo em Go."
+  subtype: presentation
+  speakers: [23]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 022
+  title: "Using GCP to create amazing bot experiences"
+  description:  ""
+  subtype: presentation
+  speakers: [24]
   language: pt-br
   complexity: "Iniciante"

@@ -157,7 +157,7 @@
   id: 11
   name: Michael
   ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/michael-dorka"}
   rockstar: true
   surname: Dorka
   thumbnailUrl: michael_dorka.jpg
@@ -184,3 +184,174 @@
   surname: Figueiredo
   thumbnailUrl: leo_figueiredo.jpg
   title: "Software Engineer and Team Leader"
+
+- 
+  bio: "Organizador do GDG Vassouras, granduando em Engenharia de Computação, está no mundo do desenvolvimento a 7 anos. Atualmente é analista de desenvolvimento de sistemas na Gera Sinergia, startup de soluções logísticas. Além de possuir side-projects na área de saúde, mobilidade urbana, e educação"
+  company: Gera Sinergia
+  id: 14
+  name: Lucas
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/pt-BR/GDG-Vassouras"}
+  rockstar: true
+  surname: Torres
+  thumbnailUrl: lucas_torres.jpg
+  title: "Analista de Desenvolvimentos de Sistemas"
+
+- 
+  bio: "Generalist, perceptive, focused, and an eternal apprentice."
+  company: Lab21k
+  id: 15
+  name: Raphael
+  ribbon: ~
+  rockstar: true
+  surname: Klaus
+  thumbnailUrl: raphael_klaus.png
+  title: "Software Engineer"
+  social: 
+    -
+      link: "https://github.com/raphaklaus"
+      name: github
+
+- 
+  bio: "Mineira, formada em Ciência da Computação. Trabalho na área de TI a 6 anos e ultimamente estou desenvolvendo Android e Web. Sou formiguinha de eventos e competições de tecnologia e sempre disposta a um bate papo com caipirinha."
+  company: ~
+  id: 16
+  name: Ana
+  ribbon: ~
+  rockstar: true
+  surname: Coimbra
+  thumbnailUrl: ana_coimbra.jpg
+  title: "Desenvolvedora Android Independente"
+  social: 
+    -
+      link: "https://twitter.com/anacoimbrag"
+      name: twitter
+    -
+      link: "https://www.facebook.com/anacoimbrag"
+      name: facebook
+    -
+      link: "https://www.linkedin.com/in/anacoimbrag"
+      name: linkedin
+    -
+      link: "https://github.com/anacoimbrag"
+      name: "github"   
+- 
+  bio: "Fábio Pimentel é instrutor e desenvolvedor da Caelum na unidade do Rio de Janeiro e tem se dedicado ao mundo mobile nos últimos 4 anos com Android e iOS. Além desses tópicos ministra treinamentos de Java, Front-End e Agile. Tendo participado como organizador e palestrante em diversos eventos cariocas."
+  company: "Caelum"
+  id: 17
+  name: Fábio 
+  ribbon: ~
+  rockstar: true
+  surname: Pimentel
+  thumbnailUrl: fabio_pimentel.jpeg
+  title: "Instrutor e Desenvolvedor"
+  social: 
+    -
+      link: "https://www.linkedin.com/in/fábio-pimentel-25751b10"
+      name: linkedin
+- 
+  bio: "Rafael Targino atua ajudando empresas e seus colaboradores a entenderem o processo de transformação do qual o mundo está passando e a se prepararem de forma adaptativa para cenários de complexidades e incertezas. Desde 2010 trocou os dois Ps Projetos e Processos da gestão tradicional, pelos Ps Paixão e Propósito, da gestão 3.0. Atualmente atua como Agile Coach, apoiando organizações em transformações ágeis, e como Arquiteto de Negócio, ajudando organizações a encontrarem seus modelos de negócio ideais, e a partir daí, definirem os gaps de capacidades a serem adquiridas."
+  company: "GovernançaBrasil S/A"
+  id: 18
+  name: Rafael 
+  ribbon: ~
+  rockstar: true
+  surname: Targino
+  thumbnailUrl: rafael_targino.jpg
+  title: "Agile Coach"
+  social: 
+    -
+      link: "http://linkedin.com/in/rafaeltargino"
+      name: linkedin
+    -
+      link: "http://organizacaoagil.com/"
+      name: blog
+- 
+  bio: "Sou desenvolvedor full stack, amante de tecnologia, participante frequente de hackthons e por incrível que pareça, não gosto de café!"
+  company: "GovernançaBrasil S/A"
+  id: 19
+  name: Hudson
+  ribbon: ~
+  rockstar: true
+  surname: Joubert
+  thumbnailUrl: hudson_joubert.jpg
+  title: "Desenvolvedor Full Stack"
+  social: 
+    -
+      link: "https://www.linkedin.com/in/hudsonjoubert/"
+      name: linkedin
+- 
+  bio: "Amante de conferências, meetups e da comunidade, procura estar sempre fazendo parte, co-fundador do Rio.CSS e amante de JS, no momento enfrentando desafios integrando o front-end da B2W Digital, holding de marcas como americanas.com e submarino, se preparem para gifs e memes além, claro, de bom conteúdo."
+  company: "B2W Digital"
+  id: 20
+  name: Matheus
+  ribbon: ~
+  rockstar: true
+  surname: Mesquita
+  thumbnailUrl: matheus_mesquita.jpg
+  title: "Desenvolvedor Front-End"
+  social: 
+    -
+      link: "https://www.linkedin.com/in/matheus-mesquita-3b78a3139/"
+      name: linkedin
+    -
+      link: "https://twitter.com/_mathmesquita"
+      name: twitter
+    -
+      link: "https://www.facebook.com/mathmesquita.168"
+      name: facebook
+- 
+  bio: "Cristina Silva é desenvolvedora full-stack com alguns anos nesta industria vital e estudante de Engenharia da Computação. Sabe fazer uns troços loucos em Go, C#, Python, Javascript e tem mergulhado fundo em React!"
+  company: ""
+  id: 21
+  name: Cristina
+  ribbon: ~
+  rockstar: true
+  surname: Silva
+  thumbnailUrl: cristina_silva.jpeg
+  title: "Desenvolvedor Full-Stack"
+  social: 
+    -
+      link: "https://twitter.com/crissilvaeng"
+      name: twitter
+- 
+  bio: "Desenvolvedor do time de inovação da Cielo, possui mais de 6 anos de experiência com desenvolvimento Android. Atualmente trabalha na nova plataforma de pagamentos que vai revolucionar o mercado: a Cielo LIO."
+  company: "M4U"
+  id: 22
+  name: Haroldo
+  ribbon: ~
+  rockstar: true
+  surname: Olivieri
+  thumbnailUrl: haroldo_oliveiri.jpg
+  title: "Desenvolvedor Android"
+  social: 
+    -
+      link: "https://www.linkedin.com/in/olivierisoares/"
+      name: linkedin
+
+- 
+  bio: ""
+  company: "Stone Pagamentos"
+  id: 23
+  name: Bianca
+  ribbon: ~
+  rockstar: true
+  surname: Rosa
+  thumbnailUrl: bianca_rosa.jpg
+  title: "Desenvolvedora"
+
+- 
+  bio: "Hernan has almost 20 years' experience in IT, working with corporations, as well as being the co-founder of ZupCat. In his role as an engineering professor at two of the major Universities in Buenos Aires, he's helped hundred of students study the prestigious course.
+
+As CTO of ZupCat, Hernan has designed games used by more than 13 million users worldwide on the Google Cloud Platform. These high quality games have been co-produced with some of the top publishers in Asia, Europe and North America.
+
+Hernan has an engineering degree in IT and was awarded 'best thesis of the year' for his work on the Semantic Web. He lives in Buenos Aires, Argentina."
+  company: "ZupCat"
+  id: 24
+  name: Hernan
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/hernan-liendo"}
+  rockstar: true
+  surname: Liendo
+  thumbnailUrl: hernan_liendo.jpg
+  title: "BotMaker"
