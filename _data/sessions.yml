@@ -65,8 +65,8 @@
 
 -
   id: 007
-  title: "Construindo sistemas reativos com Lagom framework"
-  description:  "Nesta apresentação, será abordado o manifesto reativo e suas ideias para permitir criar sistemas mais fléxiveis, desacoplados e escaláveis, usando os conceitos de responsividade, resiliência, elasticidade e orientação a mensagens. Para ajudar no desenvolvimento de microserviços usando os conceitos de sistemas reativos, será apresentado o framework Lagom, este construído sobre o ecossistema da Lightbend e usando bibliotecas como Play e Akka e com suporte para as linguagens Java e Scala. Diversos conceitos de programação serão abordados como Back Pressure, CQRS, Event Sourcing, Streams, Circuit Breaker, Service Locator e Message Broker."
+  title: "Construindo sistemas reativos"
+  description:  "Nesta apresentação, será abordado o manifesto reativo e suas ideias para permitir criar sistemas mais fléxiveis, desacoplados e escaláveis, usando os conceitos de responsividade, resiliência, elasticidade e orientação a mensagens. Para ajudar no desenvolvimento de microserviços usando os conceitos de sistemas reativos, serão apresentados diversos conceitos de programação como Back Pressure, CQRS, Event Sourcing, Streams, Circuit Breaker e Message Broker."
   subtype: presentation
   speakers: [7]
   language: pt-br
