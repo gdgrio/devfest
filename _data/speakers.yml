@@ -177,26 +177,46 @@
   title: "Software Developer"
 
 - 
-  bio: ""
+  bio: "Sanjoanense, formada em Ciência da Computação pela UNIFESP-ICT. Backender e atualmente trabalha com Scala na 99, também já trabalhou com Node.js. Apaixonada por tecnologia, viagens e boa música."
   company: 99
   id: 12
   name: Walkirya 
   ribbon: ~
   rockstar: true
+  social: 
+    - 
+      link: "https://github.com/walhs"
+      name: github
+    - 
+      link: "https://twitter.com/walheto"
+      name: twitter
+    - 
+      link: "https://www.linkedin.com/in/walkiryaheto/"
+      name: linkedin
   surname: Heto
   thumbnailUrl: walkyria_heto.jpg
-  title: "Software Developer"
+  title: "Software Engineer"
 
 - 
-  bio: ""
+  bio: "Programador desde 2002. Scala dev há 1 ano. Antes disso programou em Python, Java por muito tempo e  mais linguagens e tecnologias do que consegue lembrar. Já trabalhou em ambientes do mais corporativo e tradicional a remoto full time e startups (o que prefere hoje em dia). Gosta mais de IPA que do Raça Negra."
   company: 99
   id: 13
   name: Leonardo
   ribbon: ~
   rockstar: true
+  social: 
+    - 
+      link: "https://github.com/leofigs"
+      name: github
+    - 
+      link: "https://twitter.com/leonardofigsgit"
+      name: twitter
+    - 
+      link: "https://www.linkedin.com/in/leofig/"
+      name: linkedin
   surname: Figueiredo
   thumbnailUrl: leo_figueiredo.jpg
-  title: "Software Engineer and Team Leader"
+  title: "Software Engineer"
 
 - 
   bio: "Organizador do GDG Vassouras, granduando em Engenharia de Computação, está no mundo do desenvolvimento a 7 anos. Atualmente é analista de desenvolvimento de sistemas na Gera Sinergia, startup de soluções logísticas. Além de possuir side-projects na área de saúde, mobilidade urbana, e educação"
