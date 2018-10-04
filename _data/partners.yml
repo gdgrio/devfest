@@ -1,11 +1,5 @@
 - 
   group: "Master"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
--
-- 
-  group: "Apoio"
-  elements: 
-    - {name: "Casa do Código", description: "Casa do Código", link: "http://www.casadocodigo.com.br", imageUrl: "Logo-CasaDoCodigo.png"}
-    - {name: "Infnet", description: "Infnet", link: "http://www.infnet.edu.br", imageUrl: "Infnet_selo.png"}
+    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "googledevelopers.svg", width: 2000}
 -
