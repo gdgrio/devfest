@@ -2,7 +2,3 @@
   group: "Organizador"
   elements: 
     - {name: "GDG Rio de Janeiro", description: "GDG Rio - Comunidade aberta voltada para tecnologias Google", link: "https://gdgrio.github.io/page/", imageUrl: "logo-gdg-rio.png"}
-- 
-  group: "Co-organização"
-  elements: 
-    - {name: "GDG Duque de Caxias", description: "GDG Duque de Caxias - Comunidade aberta na Baixada Fluminense voltada para discussões do Android, Web, Backend e Google em geral.", link: "http://gdgduquedecaxias.github.io/", imageUrl: "gdg-caxias.png"}
