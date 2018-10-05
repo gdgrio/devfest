@@ -10,15 +10,15 @@ exclude: ['/logistics/','/hackaton/','/automation/','/team/','/schedule/', 'READ
 
 
 # Site Settings
-title: "Devfest Rio de Janeiro 2017"
+title: "Devfest Rio de Janeiro 2018"
 email: "rio.gdg@gmail.com"
 description: "GDG DevFest é um evento que acontece durante todo ano pelo mundo inteiro com foco em falar sobre novas tecnologias que envolvem software e tecnologias relacionadas ao Google."
 baseurl: "/devfest"
 url: "https://gdgrio.github.io"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: "UA-72104956-2"
+googleAnalyticsSiteUrl: "https://gdgrio.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
-mapsApiKey: "AIzaSyDZNwTj3KQ6v27Mll8QmK5BrhT7nJOXe9U"
+mapsApiKey: "AIzaSyBJPDv7G46z0WVEo_hTFkA1K52VuN9pe_4"
 
 # Organizer Info
 organizerName: "GDG Rio de Janeiro"
@@ -44,16 +44,16 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "Palestrantes"}
- - {permalink: "/schedule/", text: "Agenda"}
+ #- {permalink: "/schedule/", text: "Agenda"}
 bottomNavigationLinks:
  #- {link: "https://goo.gl/forms/vCmFNvTTfoMflFVR2", text: "Call4Papers"}
 rightNavigationButtons:
  #- {link: "https://goo.gl/forms/vCmFNvTTfoMflFVR2", text: "Call4Papers"}
 
 # Hero Block
-heroImage: "1920x1080.png"
-heroTitle: "GDG DevFest <typeout> 2017"
-eventDate: "25 de Novembro de 2017 - 09h às 19h"
+heroImage: "rio-walp.png"
+heroTitle: "GDG DevFest <typeout> 2018"
+eventDate: "17 de Novembro de 2018 - 09h às 18h"
 typeoutTextValues: '"", "Rio de Janeiro", "Duque de Caxias", "Petropólis", "Três Rios"'
 typeoutFallback: "Rio de Janeiro"
 heroButtons:
@@ -84,28 +84,28 @@ rockstarSpeakersButtonText: "Veja todos os palestrantes"
 
 # Location Block
 locationBlockTitle: "Local"
-eventLocationName: "Centro de Convenções SulAmérica"
-eventLocationLink: "http://www.ccsulamerica.com.br/"
-eventStreetAddress: "Av. Paulo de Frontin, 1"
+eventLocationName: "Centro de Convenções CBC"
+eventLocationLink: "https://centrodeconvencoescbc.com.br/"
+eventStreetAddress: " R. Visc. de Silva, 52"
 eventAddressLocality: "Rio de Janeiro"
-eventAddressLocalityRegion: "Cidade Nova"
-eventPostalCode: "20260-010"
+eventAddressLocalityRegion: "Botafogo"
+eventPostalCode: "22271-043"
 eventAddressCountry: "Brazil"
-eventStartTime: "2017-11-25T09:00"
+eventStartTime: "2018-11-17T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2017-11-25T19:00"
-eventPlaceCoordinates: "-22.912485, -43.209320"
-mapCenterCoordinates: "-22.912485, -43.209320"
-mapMobileCenterCoordinates: "-22.912485, -43.209320"
+eventEndTime: "2018-11-17T19:00"
+eventPlaceCoordinates: "-22.9569858, -43.1936844"
+mapCenterCoordinates: "-22.9569858, -43.1936844"
+mapMobileCenterCoordinates: "-22.9569858, -43.1936844"
 
 # Venue Block
 venueBlockTitle: "Espaço"
-venueBigImage: "sulamerica_0.jpg"
-venueSmallImage1: "sulamerica_1.png"
-venueSmallImage2: "sulamerica_3.jpg"
-venueSmallImage3: "sulamerica_4.jpg"
+venueBigImage: "dowhatyoulove.jpg"
+venueSmallImage1: "auditorio1.jpg"
+venueSmallImage2: "hall.jpg"
+venueSmallImage3: "people2017.jpg"
 venueTitle: "Auditório Principal"
-venueFeatures: ["Localizado no centro da cidade."]
+venueFeatures: ["Localizado próximo ao metrô de Botafogo."]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -129,50 +129,55 @@ ticketsTitle: "Ingressos"
 ticketsInfo: "Os ingressos dão acesso a todos a seções da conferência e coffee. Acomodação NÃO está inclusa no valor do ingresso."
 ticketsOffers:
   -
-    name: "1° Lote(Sem Camisa)"
-    price: "30"
-    priceCurrency: "R$"
-    ticketsNumber: "60"
-    ribbon: ""
-    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
-    buyButtonText: "Compre Agora"
-    ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-    validFrom: "2017-10-18T12:00"
-    validThrough: "2017-10-29T00:00"
-    soldOut: true
-
-
-  -
-    name: "1° Lote(Com Camisa)"
-    price: "60"
-    priceCurrency: "R$"
-    ticketsNumber: "60"
-    ribbon: ""
-    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
-    buyButtonText: "Compre Agora"
-    ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-    soldOut: true
-
-  -
-    name: "2° Lote(Sem Camisa)"
+    name: "Meia Estudantil"
     price: "40"
     priceCurrency: "R$"
-    ticketsNumber: "80"
+    ticketsNumber: "60"
     ribbon: ""
     buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
     buyButtonText: "Compre Agora"
     ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-    disabled: false
+    validFrom: "2018-10-18T12:00"
+    validThrough: "2018-10-29T00:00"
+    soldOut: true
+    soldOutText: "Vendas não iniciadas"
+
 
   -
-    name: "2° Lote(Com Camisa)"
+    name: "1° Lote"
     price: "80"
+    priceCurrency: "R$"
+    ticketsNumber: "60"
+    ribbon: ""
+    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
+    buyButtonText: "Compre Agora"
+    ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+    soldOut: true
+    soldOutText: "Vendas não iniciadas"
+
+  -
+    name: "2° Lote"
+    price: "90"
     priceCurrency: "R$"
     ticketsNumber: "80"
     ribbon: ""
     buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
     buyButtonText: "Compre Agora"
     ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+    soldOut: true
+    soldOutText: "Vendas não iniciadas"
+
+  -
+    name: "3° Lote"
+    price: "100"
+    priceCurrency: "R$"
+    ticketsNumber: "80"
+    ribbon: ""
+    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
+    buyButtonText: "Compre Agora"
+    ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+    soldOut: true
+    soldOutText: "Vendas não iniciadas"
 
 
 # Footer
