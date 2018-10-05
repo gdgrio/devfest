@@ -100,10 +100,10 @@ mapMobileCenterCoordinates: "-22.9569858, -43.1936844"
 
 # Venue Block
 venueBlockTitle: "Espaço"
-venueBigImage: "DOWHATYOULOVE.jpg"
-venueSmallImage1: "AUDITORIO-PRINCIPAL1.jpg"
-venueSmallImage2: "ENTRADA-HALL.jpg"
-venueSmallImage3: "sulamerica_4.jpg"
+venueBigImage: "dowhatyoulove.jpg"
+venueSmallImage1: "auditorio1.jpg"
+venueSmallImage2: "hall.jpg"
+venueSmallImage3: "people2017.jpg"
 venueTitle: "Auditório Principal"
 venueFeatures: ["Localizado próximo ao metrô de Botafogo."]
 

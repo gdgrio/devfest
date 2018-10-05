@@ -18,6 +18,15 @@
   language: en-us
   complexity: "Iniciante"
 
+-
+  id: 002
+  title: "A Definir"
+  description:  ""
+  subtype: presentation
+  speakers: [2]
+  language: en-us
+  complexity: "Iniciante"
+
 
 -
   id: 023
