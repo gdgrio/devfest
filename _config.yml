@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/logo-gdg-rio.png"
 organizerLink: "https://gdgrio.github.io/page/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, rio, rj"
 twitterAccount: "@GDGRio"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -46,9 +46,11 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Palestrantes"}
  #- {permalink: "/schedule/", text: "Agenda"}
 bottomNavigationLinks:
- #- {link: "https://goo.gl/forms/vCmFNvTTfoMflFVR2", text: "Call4Papers"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5-0sQ6SRDQ1SlTIhDiSZz4OIao0KEPSGf5Q7kpkX0QOmRGQ/viewform", text: "Call4Papers"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfPHMR3oFAognuqLfzUB-Ozi4V3myCh_Ov7Ex9oyJZ4DlnQ3w/viewform", text: "Call4Workshops"}
 rightNavigationButtons:
- #- {link: "https://goo.gl/forms/vCmFNvTTfoMflFVR2", text: "Call4Papers"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5-0sQ6SRDQ1SlTIhDiSZz4OIao0KEPSGf5Q7kpkX0QOmRGQ/viewform", text: "Call4Papers"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfPHMR3oFAognuqLfzUB-Ozi4V3myCh_Ov7Ex9oyJZ4DlnQ3w/viewform", text: "Call4Workshops"}
 
 # Hero Block
 heroImage: "rio-walp.png"
@@ -57,7 +59,8 @@ eventDate: "17 de Novembro de 2018 - 09h às 18h"
 typeoutTextValues: '"", "Rio de Janeiro", "Duque de Caxias", "Petropólis", "Três Rios"'
 typeoutFallback: "Rio de Janeiro"
 heroButtons:
- #- {link: "https://goo.gl/forms/vCmFNvTTfoMflFVR2", text: "Call4Papers"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5-0sQ6SRDQ1SlTIhDiSZz4OIao0KEPSGf5Q7kpkX0QOmRGQ/viewform", text: "Call4Papers"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfPHMR3oFAognuqLfzUB-Ozi4V3myCh_Ov7Ex9oyJZ4DlnQ3w/viewform", text: "Call4Workshops"}
  - {permalink: "/#tickets", text: "Ingressos"}
 
 # About Block
@@ -134,12 +137,12 @@ ticketsOffers:
     priceCurrency: "R$"
     ticketsNumber: "60"
     ribbon: ""
-    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
+    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2018__378568"
     buyButtonText: "Compre Agora"
     ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
     validFrom: "2018-10-18T12:00"
     validThrough: "2018-10-29T00:00"
-    soldOut: true
+    soldOut: false
     soldOutText: "Vendas não iniciadas"
 
 
@@ -149,10 +152,10 @@ ticketsOffers:
     priceCurrency: "R$"
     ticketsNumber: "60"
     ribbon: ""
-    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
+    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2018__378568"
     buyButtonText: "Compre Agora"
     ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-    soldOut: true
+    soldOut: false
     soldOutText: "Vendas não iniciadas"
 
   -
@@ -161,7 +164,7 @@ ticketsOffers:
     priceCurrency: "R$"
     ticketsNumber: "80"
     ribbon: ""
-    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
+    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2018__378568"
     buyButtonText: "Compre Agora"
     ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
     soldOut: true
@@ -173,7 +176,7 @@ ticketsOffers:
     priceCurrency: "R$"
     ticketsNumber: "80"
     ribbon: ""
-    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2017__204453"
+    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2018__378568"
     buyButtonText: "Compre Agora"
     ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
     soldOut: true
@@ -200,7 +203,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "./coc.pdf", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
