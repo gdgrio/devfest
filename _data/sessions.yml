@@ -20,13 +20,21 @@
 
 -
   id: 002
-  title: "A Definir"
-  description:  ""
+  title: "Syncing (UX) Design sprints"
+  description:  "In this talk I want to share with you some experiences about the importance of design sprints and why and how you can sync between Design/Research, Product and Development teams."
   subtype: presentation
   speakers: [2]
   language: en-us
-  complexity: "Iniciante"
+  complexity: "Intermediário"
 
+-
+  id: 003
+  title: "Javascript ❤️ Binary Data"
+  description: "In this talk we’ll go pretty low level! We’ll explore the tools JavaScript has to offer for working with binary data, see how the popular binary formats are structured and how Serialized Frameworks like Thrift/protobuf use binary for speed and efficiency."
+  subtype: presentation
+  speakers: [3]
+  language: en-us
+  complexity: "Intermediário"
 
 -
   id: 023
