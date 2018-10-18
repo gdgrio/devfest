@@ -41,4 +41,11 @@
   title: Developer
   bio: "Kirill Cherkashin, originally from Moscow, now lives in NYC working for Firebase. He enjoys teaching and organising meetups. He has been teaching Web for the past few years, and is the organiser for AngularNYC, ReactNYC and soon VueNYC! He loves Angular and teaches it at Google and all over the world. In spare time, He enjoys dancing tango, reading books and good conversations."
   thumbnailUrl: kirill_cherkashin.jpg
+  social:
+    -
+      link: "https://twitter.com/kirjs"
+      name: twitter
+    -
+      link: "https://github.com/kirjs"
+      name: github
 
