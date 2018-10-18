@@ -1,34 +1,44 @@
---- 
-- 
+---
+-
   bio: "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian."
   company: "Google"
   title: "Developer Advocate"
   id: 1
-  name: Mete 
+  name: Mete
   surname: Atamel
   ribbon:
     - {abbr: "Google", title: "Developer Advocate", url: "https://developers.google.com/"}
   rockstar: true
-  social: 
-    - 
+  social:
+    -
       link: "https://twitter.com/meteatamel/"
       name: twitter
-    - 
+    -
       link: "https://github.com/meteatamel/"
       name: github
-    - 
+    -
       link: "https://www.linkedin.com/in/meteatamel/"
       name: linkedin
   thumbnailUrl: mete_atamel.jpg
-  
-- 
+
+-
   bio: "Currently I am in charge of the UX department as head of UX at OLX. OLX Group is a global online marketplace, operating in 45 countries, and is the largest online classified ads company in Pakistan, Brazil, India, Bulgaria, Poland, Portugal and Ukraine. From 2015 until 2018 I was the UX evangelist at despegar, LATAM’s biggest OTA. Additional Google certifies me officially as Design Sprint Master and as Product Design Expert (GDE) specialised in User Research. I have more then 6 years of experience as entrepreneur of various companies that I co-founded in Germany, Mexico and Argentina and more than 15 years of experience as a professional designer and consult. After graduating at the Köln International School of Design (the design faculty from the university of applied sciences Cologne, Germany and working more than 5 years as art director in different advertising agencies in Germany I dedicated myself to Information Architecture, Interface Design and User Experience Design. I worked as consultant for Vodafone Global, German Telekom Laboratories, T-Home and T-mobile. In 2010 I won the IF Design award as responsible UX designer for User Interfaces of the German Telekom landline phone Sinus A 201. In 2008 I gained the EXIST scholarship from Federal Ministry of Economics and Technology in Germany. I investigated on mobile technology services in Japan. Additionally I published articles on the website of the Design Research Network, in the book Designing Public, in the design magazine Tipografica and in the newspaper Buenos Aires Daily Herald. As guest lecturer I gave classes in the career of Interface Design at the Köln International School of Design (KISD), University of Buenos Aires (UBA), The National University of Technology Buenos Aires (UTN) and the University of La Plata (UNLP). In my spare time I like cooking, travelling, spending time with my family, photography and I recently started a course on python.I lived and worked in Germany, Canada, Japan, Mexico and Argentina. I love design and tech and lived that in small and big size, as consultant, founder and manager"
   company: OLX
   id: 2
   name: Michael
-  ribbon: 
+  ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/michael-dorka"}
   rockstar: true
   surname: Dorka
   thumbnailUrl: michael_dorka.jpg
   title: "Software Developer"
+
+-
+  id: 3
+  name: Kirill
+  surname: Cherkashin
+  company: "Google Firebase"
+  title: Developer
+  bio: "Kirill Cherkashin, originally from Moscow, now lives in NYC working for Firebase. He enjoys teaching and organising meetups. He has been teaching Web for the past few years, and is the organiser for AngularNYC, ReactNYC and soon VueNYC! He loves Angular and teaches it at Google and all over the world. In spare time, He enjoys dancing tango, reading books and good conversations."
+  thumbnailUrl: kirill_cherkashin.jpg
+

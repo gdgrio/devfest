@@ -27,6 +27,14 @@
   language: en-us
   complexity: "Iniciante"
 
+-
+  id: 003
+  title: "Javascript ❤️ Binary Data"
+  description: "In this talk we’ll go pretty low level! We’ll explore the tools JavaScript has to offer for working with binary data, see how the popular binary formats are structured and how Serialized Frameworks like Thrift/protobuf use binary for speed and efficiency."
+  subtype: presentation
+  speakers: [3]
+  language: en-us
+  complexity: "Intermediário"
 
 -
   id: 023
