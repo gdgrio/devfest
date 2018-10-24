@@ -31,9 +31,9 @@ organizerLink: "https://gdgrio.github.io/page/"
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
 twitterAccount: "@GDGRio"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/gdg-google-plus.png"
+socialImageSrcTwitter: "/img/seo/gdg-twitter.png"
+socialImageSrcFacebook: "/img/seo/gdg-facebook.png"
 
 # Documents
 c4pUrl: "https://goo.gl/forms/vCmFNvTTfoMflFVR2"
@@ -100,7 +100,7 @@ mapMobileCenterCoordinates: "-22.9569858, -43.1936844"
 
 # Venue Block
 venueBlockTitle: "Espaço"
-venueBigImage: "dowhatyoulove.jpg"
+venueBigImage: "wework.jpg"
 venueSmallImage1: "auditorio1.jpg"
 venueSmallImage2: "hall.jpg"
 venueSmallImage3: "people2017.jpg"
