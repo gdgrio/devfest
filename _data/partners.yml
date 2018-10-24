@@ -1,5 +1,5 @@
 - 
   group: "Master"
   elements: 
-    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "googledevelopers.svg", width: 2000}
+    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "googledevelopers.svg",}
 -
