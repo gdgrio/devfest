@@ -1,6 +1,6 @@
 - 
-  date: "2017-11-25"
-  dateReadable: "25 de Novembro"
+  date: "2018-11-17"
+  dateReadable: "17 de Novembro"
   tracks: 
     - {title: "Cristo Redentor", color: "#e91e63"}
     - {title: "Pão de Açucar", color: "#ffff1a"}
@@ -63,12 +63,12 @@
     - {
         startTime: "15:30",
         endTime: "16:10",
-        sessionIds: [010, 016]
+        sessionIds: [005, 016]
     }
     - {
         startTime: "16:10",
         endTime: "16:50",
-        sessionIds: [005, 013]
+        sessionIds: [010, 013]
     }
     - {
         startTime: "16:50",
