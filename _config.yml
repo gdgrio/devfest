@@ -46,11 +46,11 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Palestrantes"}
  #- {permalink: "/schedule/", text: "Agenda"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5-0sQ6SRDQ1SlTIhDiSZz4OIao0KEPSGf5Q7kpkX0QOmRGQ/viewform", text: "Call4Papers"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfPHMR3oFAognuqLfzUB-Ozi4V3myCh_Ov7Ex9oyJZ4DlnQ3w/viewform", text: "Call4Workshops"}
+ #- {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5-0sQ6SRDQ1SlTIhDiSZz4OIao0KEPSGf5Q7kpkX0QOmRGQ/viewform", text: "Call4Papers"}
+ #- {link: "https://docs.google.com/forms/d/e/1FAIpQLSfPHMR3oFAognuqLfzUB-Ozi4V3myCh_Ov7Ex9oyJZ4DlnQ3w/viewform", text: "Call4Workshops"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5-0sQ6SRDQ1SlTIhDiSZz4OIao0KEPSGf5Q7kpkX0QOmRGQ/viewform", text: "Call4Papers"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfPHMR3oFAognuqLfzUB-Ozi4V3myCh_Ov7Ex9oyJZ4DlnQ3w/viewform", text: "Call4Workshops"}
+ #- {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5-0sQ6SRDQ1SlTIhDiSZz4OIao0KEPSGf5Q7kpkX0QOmRGQ/viewform", text: "Call4Papers"}
+ #- {link: "https://docs.google.com/forms/d/e/1FAIpQLSfPHMR3oFAognuqLfzUB-Ozi4V3myCh_Ov7Ex9oyJZ4DlnQ3w/viewform", text: "Call4Workshops"}
 
 # Hero Block
 heroImage: "rio-walp.png"
@@ -59,8 +59,6 @@ eventDate: "17 de Novembro de 2018 - 09h às 18h"
 typeoutTextValues: '"", "Rio de Janeiro", "Duque de Caxias", "Petropólis", "Três Rios"'
 typeoutFallback: "Rio de Janeiro"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5-0sQ6SRDQ1SlTIhDiSZz4OIao0KEPSGf5Q7kpkX0QOmRGQ/viewform", text: "Call4Papers"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfPHMR3oFAognuqLfzUB-Ozi4V3myCh_Ov7Ex9oyJZ4DlnQ3w/viewform", text: "Call4Workshops"}
  - {permalink: "/#tickets", text: "Ingressos"}
 
 # About Block
