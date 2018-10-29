@@ -37,6 +37,15 @@
   complexity: "Intermediário"
 
 -
+  id: 004
+  title: "Google's Next Billion Users"
+  description: "Millions of new internet users will be coming online in the near future, but many will still have slow and intermittent access. Learn best practices about designing products and experiences for constrained connectivity contexts, and about what Google's new initiatives to build for the Next Billion users"
+  subtype: presentation
+  speakers: [4]
+  language: en-us
+  complexity: "Iniciante"
+
+-
   id: 023
   title: "Credenciamento"
   place: "Hall"
