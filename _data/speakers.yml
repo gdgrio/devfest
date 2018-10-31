@@ -59,6 +59,7 @@
   title: "Product Designer"
   bio: "Lucila De Pasquale is a Product Designer at Google, where she designing and builds new digital products for emerging markets. She has an extensive educational background and working experience in design in Europe, South America, North America, the Caribbean and Asia. Before joining Google, she was the head of UX at Taiger, an artificial intelligence company, and later worked for ThoughtWorks as the User Experience lead for Asia Pacific. She has a deep understanding of the intersection between human psychology and technology, to help solve complex business challenges."
   thumbnailUrl: lucila_de_pasquale.jpg
+  rockstar: true
   ribbon:
     - {abbr: "Google", title: "Product Designer", url: "https://developers.google.com/"}
   social:
@@ -72,6 +73,7 @@
   surname: "Jó"
   company: "IDWall"
   title: "Developer"
+  rockstar: true
   bio: ""
   thumbnailUrl: mari.jpg
 
@@ -80,6 +82,7 @@
   name: Raphael
   surname: Amorim
   company: GoDaddy
+  rockstar: true
   title: "Software Developer"
   bio: "Software Developer Engineer na GoDaddy, autor do React-TV e mantenedor do jquery-color pela JS foundation. Trabalhou em empresas como globo.com, Petrobras e Videolog. Contribui para o código fonte de ReactJS."
   thumbnailUrl: rapha_amorim.jpg
