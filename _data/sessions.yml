@@ -46,6 +46,23 @@
   complexity: "Iniciante"
 
 -
+  id: 005
+  title: "Diversidade na Tecnologia"
+  description: "Vai falar sobre diversidade e inclusão no mundo da tecnologia. Apresentando os cases da empresa, ela vai mostrar como a IDwall trabalha para fazer a diferença nesse sentido, como a implementação do Comitê da Diversidade."
+  subtype: presentation
+  speakers: [5]
+  language: pt-br
+  complexity: "Iniciante"
+-
+  id: 006
+  title: "Writing your own renderer"
+  description: "A ideia da palestra é explicar o processo de renderização do React a fundo e mostrar como funciona as entranhas, passando por diversas etapas que percorrem o React Reconciler, Fiber e Suspense. Ao final da palestra um react renderer será construído passo a passo."
+  subtype: presentation
+  speakers: [6]
+  language: pt-br
+  complexity: "Intermediário"
+
+-
   id: 023
   title: "Credenciamento"
   place: "Hall"
