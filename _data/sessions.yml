@@ -63,6 +63,24 @@
   complexity: "Intermediário"
 
 -
+  id: 007
+  title: "Inteligência Artificial + Visão Computacional no front, em que ponto estamos?"
+  description: "Você já deve ter ouvido algo sobre inteligência artificial e machine learning mas já parou de fato pra pensar em produtos ou aplicações que podemos fazer utilizando TensorflowJS? Mostrarei a magia por trás deste framework e como alimentamos uma inteligência com vídeo ou fotos para extrairmos valor de objetos, formas e coisas que nunca pensamos antes."
+  subtype: presentation
+  speakers: [7]
+  language: pt-br
+  complexity: "Intermediário"
+
+-
+  id: 008
+  title: "Traefik: da PoC a Prod"
+  description: "Algumas soluções de reverse proxy e de load balancer existentes se mostram complexas para dar manutenção, além da necessidade de uma quantidade grande de recursos de hardware. O Traefik é um reverse proxy/load balancer simples, rápido, dinâmico, leve e bem poderoso, além de ser um projeto Open Source escrito em Go. O intuito é apresentarmos algumas das principais funcionalidades do Traefik, mostrar como é fácil utiliza-lo e, por fim, fazer uma comparação com algumas outras soluções similares que existem no mercado. Vamos mostrar também alguns cases de sucesso que mostram como realmente pode ser vantajoso usar o Traefik no ambiente produtivo de qualquer projeto."
+  subtype: presentation
+  speakers: [8]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
   id: 023
   title: "Credenciamento"
   place: "Hall"

@@ -90,3 +90,39 @@
     -
       link: "https://twitter.com/raphamorims"
       name: twitter
+
+-
+  id: 7
+  name: Luigui
+  surname: Delyer
+  company: CyberLabs
+  rockstar: true
+  title: "Senior Frontend Developer"
+  bio: "Front e GeoDev, trabalho com VueJS, Vuex, SASS, PUG, Atomic Design, ArcGISJS, TensorflowJS, A-Frame, WebVR e ThreeJS.
+Ativista de Software Livre, representante da Mozilla no Brasil, já participei de diversos eventos pelo país falando sobre tecnologias web.
+Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web, faço parte da comunidade VueJS in Rio e organizo o RioJS."
+  thumbnailUrl: luigui_delyer.jpeg
+  social:
+    -
+      link: "https://www.linkedin.com/in/luiguild/"
+      name: linkedin
+    -
+      link: "https://www.twitter.com/luiguild/"
+      name: twitter
+
+-
+  id: 8
+  name: Marco 
+  surname: Ollivier
+  company: M4U
+  rockstar: true
+  title: "Software Developer"
+  bio: "Sou um Analista de Sistemas formado pelo Instituto Infnet do Rio de Janeiro. Trabalho com desenvolvimento de softwares desde 2010. Durante maior parte da minha carreira utilizei Java e suas tecnologias na maior parte do tempo, mas tenho me aproximado do universo e da comunidade Go nos últimos tempos."
+  thumbnailUrl: marco_ollivier.jpeg
+  social:
+    -
+      link: "https://www.linkedin.com/in/marcopollivier/"
+      name: linkedin
+    -
+      link: "https://www.twitter.com/marcopollivier/"
+      name: twitter
