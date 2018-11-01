@@ -143,9 +143,20 @@ ticketsOffers:
     soldOut: false
     soldOutText: "Vendas não iniciadas"
 
-
   -
-    name: "1° Lote"
+    name: "1° Lote Sem Camisa"
+    price: "50"
+    priceCurrency: "R$"
+    ticketsNumber: "60"
+    ribbon: ""
+    buyButtonLink: "https://www.sympla.com.br/devfest-rio-de-janeiro-2018__378568"
+    buyButtonText: "Compre Agora"
+    ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+    soldOut: false
+    soldOutText: "Vendas não iniciadas"
+    
+  -
+    name: "1° Lote Com Camisa"
     price: "80"
     priceCurrency: "R$"
     ticketsNumber: "60"
