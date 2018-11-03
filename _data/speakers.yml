@@ -126,3 +126,17 @@ Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web, faç
     -
       link: "https://www.twitter.com/marcopollivier/"
       name: twitter
+
+-
+  id: 9
+  name: Bruna  
+  surname: Dolavale
+  company: FGV
+  rockstar: true
+  title: "Cientista de Dados"
+  bio: "Me chamo Bruna Dolavale, trabalho com Data Science na Fundação Getúlio Vargas e sou graduanda em Análise e Desenvolvimento de Sistemas no Instituto Infnet. Tenho grande paixão por Dados, Desenvolvimento e Inteligência Artificial. Adoro trocar conhecimentos e experiências... Sou membro ativo nas comunidades de Desenvolvimento."
+  thumbnailUrl: bruna_dolavale.png
+  social:
+    -
+      link: "https://www.linkedin.com/in/bruna-dolavale-0a8a5589"
+      name: linkedin

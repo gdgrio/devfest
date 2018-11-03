@@ -81,6 +81,15 @@
   complexity: "Iniciante"
 
 -
+  id: 009
+  title: "Inteligência Artificial: por onde começar?"
+  description: "Minha estratégia é dar direcionamento no estudo do ramo da Inteligência Artificial. Ademais, mostrar exemplos práticos de seu uso no nosso cotidiano."
+  subtype: presentation
+  speakers: [9]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
   id: 023
   title: "Credenciamento"
   place: "Hall"
