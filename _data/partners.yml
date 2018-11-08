@@ -2,4 +2,7 @@
   group: "Master"
   elements: 
     - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "googledevelopers.svg",}
--
+- 
+  group: "Super"
+  elements: 
+    - {name: "IDWall", description: "Nossa missão é resolver a falta de confiança e credibilidade entre pessoas e empresas na era digital por meio de soluções pioneiras", link: "https://idwall.co/", imageUrl: "idwall_preto.png",}
