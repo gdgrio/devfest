@@ -1,8 +1,23 @@
 - 
-  group: "Master"
+  group: "Diamond"
+  className: "diamond"
   elements: 
-    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "googledevelopers.svg",}
+    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "gdevs.svg",}
+
+- 
+  group: "Master"
+  className: "master"
+  elements: 
+    - {name: "Mobicare", description: "Mobicare", link: "https://www.mobicare.com.br/#/", imageUrl: "mobicare.png"}
+
 - 
   group: "Super"
+  className: "super"
   elements: 
     - {name: "IDWall", description: "Nossa missão é resolver a falta de confiança e credibilidade entre pessoas e empresas na era digital por meio de soluções pioneiras", link: "https://idwall.co/", imageUrl: "idwall_preto.png",}
+
+- 
+  group: "Apoio"
+  className: "apoio"
+  elements: 
+    - {name: "HUB", description: "HUB", link: "http://www.ihub.network/", imageUrl: "hub.png",}
