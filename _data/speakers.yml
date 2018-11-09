@@ -140,3 +140,201 @@ Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web, faç
     -
       link: "https://www.linkedin.com/in/bruna-dolavale-0a8a5589"
       name: linkedin
+
+-
+  id: 10
+  name: Fernando
+  surname: Barbosa
+  company: Radix
+  rockstar: true
+  title: "Analista de Software"
+  bio: "Analista de Software da Radix Engenharia, com mais de 3 anos de experiência em desenvolvimento Android. Também é designer gráfico e UX freelancer. Nas horas vagas ainda é comandante nacional do fã-clube 501st Legion."
+  thumbnailUrl: jedi_fernando.png
+  social:
+    -
+      link: "https://linkedin.com/in/fernando-barbosa"
+      name: linkedin
+
+-
+  id: 11
+  name: Rafael
+  surname: Cruz
+  company: Icatu Seguros
+  rockstar: true
+  title: "Desenvolvedor .Net"
+  bio: "Rafael Cruz é Desenvolvedor .Net há mais de 16 anos, Most Valuable Profissional (MVP), Instrutor Oficial Microsoft (MCT), Fundador do Coders in Rio, Pós graduado em Engenharia de Software pela UFRJ. Atua como palestrante e autor em portais voltado para tecnologia Microsoft com foco em Web, Cloud e Mobile."
+  thumbnailUrl: rafael_cruz.jpg
+  social:
+    -
+      link: "https://www.linkedin.com/in/rafaelcruzmvp"
+      name: linkedin
+  
+-
+  id: 12
+  name: Keilla
+  surname: Fernandes
+  company: ThoughtWorks
+  rockstar: true
+  title: "Senior Software Development Engineer"
+  bio: "Formada em Ciência da Computação pela UFBA, trabalho como programadora há mais de 10 anos, com habilidades mais fortes na área de Front-end. Tenho experiência com desenvolvimento de aplicações robustas em Angular. A paixão pela Ciência é o motor que me impulsiona a buscar respostas para os problemas que a computação pretende resolver. Já palestrou em eventos como DevFest (2017), DevCamp(2018) e FISL(2018). Participou das organização do Front In Campinas, na qual foi apresentadora do evento."
+  thumbnailUrl: keilla_fernandes.jpg
+  social:
+    -
+      link: "https://www.linkedin.com/in/keilla-menezes/"
+      name: linkedin
+
+-
+  id: 13
+  name: Silvia 
+  surname: R Blumberg
+  company: ArtECOletiva
+  rockstar: true
+  title: "Designer/Entrepreneur"
+  bio: "Especialista em identificar novos usos para resíduos sólidos. Serviço Social/ UFRJ ; Gestao e Moda AZOV e maratonista de Hackatons. Equipe ficou em terceiro na Start Up weekend 2018"
+  thumbnailUrl: silvia_blumberg.jpg
+  social:
+    -
+      link: "https://www.linkedin.com/in/silvia-blumberg-0966719/"
+      name: linkedin
+
+-
+  id: 14
+  name: Grover
+  surname: Callisaya
+  company: Freelancer
+  rockstar: true
+  title: "Desenvolvedor Android"
+  bio: "Eu sou do GDG La Paz, Bolivia. Esteve trabalhando na Plataforma Android por 4 anos como freelancer. Agora estou culminando o Nanodegree da Udacity Google e depois a Certificação do Google. Trabalho com Empresas estrangeiras e gosto de fazer aplicativos de todo tipo! Foi selecionado no IEEEmadC que é um concurso de Apps no mundo entero."
+  thumbnailUrl: grover.jpg
+  social:
+    -
+      link: "https://www.linkedin.com/in/growcallisaya"
+      name: linkedin
+
+-
+  id: 15
+  name: Renan 
+  surname: Barros da Silva
+  company: Stone Pagamentos
+  rockstar: true
+  title: "Desenvolvedor Android"
+  bio: "Desenvolvedor Android"
+  thumbnailUrl: renan_barros.jpg
+  social:
+    -
+      link: "https://br.linkedin.com/in/renanrbs"
+      name: linkedin
+
+-
+  id: 16
+  name: Eduardo  
+  surname: Florence
+  company: Gemini Tecnologia
+  rockstar: true
+  title: "CEO"
+  bio: "Sou CEO da empresa Gemini Tecnologia, que desenvolve softwares para gestão escolar fornecidos como serviço (SaaS). Trabalho há 22 anos com desenvolvimento de software, desde de desenvolvedor a arquiteto de soluções. Atualmente tenho mantido esforços no estudo de tecnologias web de front-end e serverless."
+  thumbnailUrl: eduardo.jpeg
+  social:
+    -
+      link: "https://www.linkedin.com/in/eduardo-florence"
+      name: linkedin
+
+-
+  id: 17
+  name: Gustavo  
+  surname: Gonçalves
+  company: PUC-Rio
+  rockstar: true
+  title: "Sr. Software Engineer"
+  bio: "Mestre em Engenharia de Software apaixonado por tecnologia e em resolver problemas. Possui experiencia no desenvolvimento de sistemas de busca, gerenciamento de conteúdo (CMS), aprendizado (LMS), administração remota (RAS) e simulação de interação. É professor do Infnet desde 2014 e trabalha como analista de sistemas há mais de dez anos na PUC-Rio."
+  thumbnailUrl: gustavo_goncalves.jpeg
+  social:
+    -
+      link: "https://www.linkedin.com/in/gustavomirandag"
+      name: linkedin
+
+-
+  id: 18
+  name: Carlos
+  surname: Henrique Carmo
+  company: Globo.com
+  rockstar: true
+  title: "Software Developer"
+  bio: "Christian, husband, father, developer at @globocom, co-organizer of #ReactRio, musician, gamer and film buff."
+  thumbnailUrl: carlos_henrique.jpg
+  social:
+    -
+      link: "https://www.linkedin.com/in/chenriquepc/"
+      name: linkedin
+
+-
+  id: 19
+  name: Eduardo
+  surname: Shinkawa
+  company: Globo.com
+  rockstar: true
+  title: "Software Developer"
+  bio: "Desenvolvedor na Globo.com, trabalha com React Native no momento, mas continua atuando junto a comunidade JS Web"
+  thumbnailUrl: eduardo_shinkawa.jpg
+  social:
+    -
+      link: "https://www.linkedin.com/in/eshinkawa/"
+      name: linkedin
+
+-
+  id: 20
+  name: Bianca
+  surname: Rosa
+  company: Stone Pagamentos
+  rockstar: true
+  title: "Lead Developer"
+  bio: "Líder de desenvolvimento na Stone, tem 7 anos de experiência no mercado de TI. Hoje programa em Python e Go, principalmente, e gosta de desenvolver aplicações com qualidade, escaláveis e fáceis de serem mantidas."
+  thumbnailUrl: bianca_rosa.jpg
+  social:
+    -
+      link: "https://www.linkedin.com/in/brosa/"
+      name: linkedin
+
+-
+  id: 21
+  name: Diogo
+  surname: Padilha
+  company: GDG Três Rios
+  rockstar: true
+  title: "Community Manager"
+  bio: "Olá, mundo! Meu nome é Diogo Cordeiro Padilha, tenho 22 anos e sou de Paraíba do Sul/RJ. Estou finalizando a minha graduação em Engenharia de Computação pela Universidade de Vassouras, e sou um dos Community Manager do GDG Três Rios."
+  thumbnailUrl: diogo_padilha.jpg
+  social:
+    -
+      link: "https://www.linkedin.com/in/dcpadilha/"
+      name: linkedin
+
+-
+  id: 22
+  name: Vinicius 
+  surname: Mello
+  company: Visagio Tecnologia
+  rockstar: true
+  title: "Consultor"
+  bio: "Sou formado em Ciência da Computação pela UFRJ. Trabalho como consultor na Visagio desde 2013 e passei por clientes em diversos setores: mineração, telecomunicação, manufatura e financeiro. Durante minha carreira atuei principalmente com desenvolvimento de software, ferramentas de ETL, business intelligence e, nos últimos anos, RPA."
+  thumbnailUrl: vinicius_mello.jpeg
+  social:
+    -
+      link: "https://www.linkedin.com/in/vinicius-mello-0198b4b2/"
+      name: linkedin
+
+-
+  id: 23
+  name: Digo
+  surname: Ribeiro
+  company: Freelancer
+  rockstar: true
+  title: "Desenvolvedor de Software"
+  bio: "Sou desenvolvedor desde de 2013, com foco em Javascript AngularJs 1.x, Angular 2/4, ReactJs e NodeJs, aplicações mobile híbridas com Ionic 2/3 e React Native. Formando em Tecnologia em Sistemas da Informação pelo Instituto Infnet. 
+Extensa experiência no desenvolvimento de temas e plugins para WordPress (filters, actions, custom post types, entre outros) e WooCommerce.  Além de know-how em linguagens de back-end como Ruby, PHP e em banco de dados SQL e NoSQL (MySQL e MongoDB).
+Atualmente, estou aumentando meu escopo multidisciplinar agregando conhecimento em UX, Produto e Empreendedorismo."
+  thumbnailUrl: digo_ribeiro.jpg
+  social:
+    -
+      link: "https://www.linkedin.com/in/digoribeiro/"
+      name: linkedin
