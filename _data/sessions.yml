@@ -90,20 +90,151 @@
   complexity: "Iniciante"
 
 -
+  id: 010
+  title: "A arte de criar layouts robustos em Android"
+  description: "A pouco mais de um ano a Google lançou o Constraint Layout, a promessa de um novo e robusto gerenciador de layouts. Vamos dismistificar o assunto que ainda assusta muitos desenvolvedores e entender como a ferramenta funciona."
+  subtype: presentation
+  speakers: [10]
+  language: pt-br
+  complexity: "Intermediário"
+
+-
+  id: 011
+  title: "Crie o seu primeiro Bot inteligente com o Bot Framework e LUIS Cognitives Service"
+  description: "Nesta sessão será debatido um conceito que está na moda, a inteligência artificial, iremos conceituar o LUIS o serviço de Cognitives Service da Microsoft e o BOT Framework."
+  subtype: presentation
+  speakers: [11]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 012
+  title: "Testes de Carga: A API dá conta?"
+  description: "Como medir o tempo de resposta de sua aplicação WEB? Para aplicações que consomem API REST que retornam JSON é essencial obter uma métrica da aplicação sob carga para verificar se os tempos de respostas estão adequados. Utilizando a aplicação RESTful Stress pretendo demonstrar como fazer isso de forma simples. As aplicações SPA costumam obter dados de API’s Rest e é importante para a performance da aplicação realizar testes de cargas que validem a capacidade de reposta dessa API's."
+  subtype: presentation
+  speakers: [12]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 013
+  title: "A tecnologia e Sustentabilidade  na Pratica: Garimpos de aplicação da tecnologia na Escandinavia"
+  description: "Apresentar o que já existe de aplicação de ideias tecnológicas e ações sustentáveis  nas cidades: Copenhague , Oslo e Estocolmo."
+  subtype: presentation
+  speakers: [13]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 014
+  title: "How to start Freelancing as a Mobile Developer!"
+  description: "Você ama o mundo do desenvolvimento e quer optar pelo mundo do Freelance? Nesta palestra, você aprenderá algumas dicas e ferramentas úteis para iniciar e melhorar suas habilidades. Da busca de um cliente, criar um portfólio, até o impacto com seu produto / serviço. Crie oportunidades e torne-se o que você quer ser!"
+  subtype: presentation
+  speakers: [14]
+  language: en-us
+  complexity: "Iniciante"
+
+-
+  id: 015
+  title: "Modularize seu aplicativo Android. Vantagens e Desvantagens"
+  description: "Conheça todos os poderes que você pode adquirir ao modularizar seu aplicativo. Instant Apps, App bundle, Dynamic Delivery e muito mais"
+  subtype: presentation
+  speakers: [15]
+  language: en-us
+  complexity: "Intermediário"
+
+-
+  id: 016
+  title: "Desenvolvimento Híbrido de Verdade"
+  description: "O desenvolvimento híbrido permitiu que possuíssemos uma única base de código para gerar aplicativos para diferentes dispositivos móveis, mas ainda havia uma separação do desenvolvimento web. Nesta palestra vou mostrar como compartilhar código para desenvolver aplicativos WEB, PWA e Mobile (nativos), através dos frameworks Angular e NativeScript. Classes e Serviços compartilhados e apenas apresentação dos componentes de forma independente para dar mais produtividade e facilitar o trabalho em equipe."
+  subtype: presentation
+  speakers: [16]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 017
+  title: "Sistemas de Busca e Log com Elasticsearch"
+  description: "De armazenamento de atividades a sistemas de busca complexos. Elasticsearch é uma poderosa ferramenta capaz de trabalhar com grande volume de dados e realizar buscas muito rapidamente. A palestra fará uma breve apresentação da ferramenta."
+  subtype: presentation
+  speakers: [17]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 018
+  title: "Testes suas App`s com Apium & AWS"
+  description: "Testar sua aplicação antes de lançá-la nas lojas é uma boa forma de evitar problemas com seus usuários. Hoje nos principais apps da Globo.com, utilizamos dessas ferramentas para nos ajudar na qualidade as apps."
+  subtype: presentation
+  speakers: [18]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 019
+  title: "História dos Testes até o CypressIO"
+  description: "Vamos contar uma breve história dos testes E2E, os desafios com Selenium junto os frameworks atuais até chegar no CypressIO, ferramenta de testes que veio revolucionar o jeito com se testa no frontend em 2018!"
+  subtype: presentation
+  speakers: [19]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 020
+  title: "Programando de forma concorrente em Go"
+  description: "Nessa palestra, vamos passar rapidamente pelo básico de concorrência e paralelismo e partir pro código: vamos ver como é fácil fazer algo concorrente em Go, usando channels e goroutines, e também como é fácil se enrolar e criar condições de corrida. Por fim, serão apresentadas formas de evitar condições de corrida usando o próprio tooling do Go"
+  subtype: presentation
+  speakers: [20]
+  language: pt-br
+  complexity: "Intermediário"
+
+-
+  id: 021
+  title: "MembrosGO: buscando novos integrantes para a comunidade GDG"
+  description: "Nessa palestra eu mostrarei como estou extraindo dados do Meetup do GDG Três Rios para analisar os interesses dos membros do grupo, para facilitar na análise de um possível meetup e conhecer a nossa comunidade. Depois de identificar os interesses, pretendo mostrar como procurar possíveis novos membros em redes sociais como Instagram e Twitter"
+  subtype: presentation
+  speakers: [21]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 022
+  title: "RPA: automatizando atividades para ganhar produtividade"
+  description: O objetivo da apresentação é fazer uma introdução ao RPA, discutir os ganhos possíveis e mostrar uma das ferramentas que é líder de mercado no assunto."
+  subtype: presentation
+  speakers: [22]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
   id: 023
+  title: "Small Data: o que é, onde vive, para que serve?"
+  description: "Vou mostrar a diferença entre o Big Data e o
+                Small Data e aplicação do Small Data nos negócios que vão ter sucesso no futuro.
+                Em um mundo repleto de dados online e estudos sobre esses dados, vou responder: 
+                O que é o Small Data?
+                Onde o Small Data se encaixa e ajuda nos negócios online?
+                Podemos usar o Small Data na nossa vida pessoal?
+                Essas e outras respostas é o que vou apresentar nessa palestra."
+  subtype: presentation
+  speakers: [23]
+  language: pt-br
+  complexity: "Iniciante"
+-
+  id: 050
   title: "Credenciamento"
   place: "Hall"
   service: true
   description: "Tragam seus comprovantes de inscrição emitidos pelo Sympla para fazermos o credencimento."
 
 -
-  id: 024
+  id: 055
   title: "Abertura"
   place: ""
   service: true
 
 -
-  id: 025
+  id: 060
   title: "Encerramento"
   place: ""
   service: true
