@@ -44,7 +44,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "Palestrantes"}
- #- {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/schedule/", text: "Agenda"}
 bottomNavigationLinks:
  #- {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5-0sQ6SRDQ1SlTIhDiSZz4OIao0KEPSGf5Q7kpkX0QOmRGQ/viewform", text: "Call4Papers"}
  #- {link: "https://docs.google.com/forms/d/e/1FAIpQLSfPHMR3oFAognuqLfzUB-Ozi4V3myCh_Ov7Ex9oyJZ4DlnQ3w/viewform", text: "Call4Workshops"}

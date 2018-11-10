@@ -2,38 +2,40 @@
   date: "2018-11-17"
   dateReadable: "17 de Novembro"
   tracks: 
-    - {title: "Cristo Redentor", color: "#e91e63"}
-    - {title: "Pão de Açucar", color: "#ffff1a"}
+    - {title: "Sala A", color: "#4285F4"}
+    - {title: "Sala B", color: "#34A853"}
+    - {title: "Sala C", color: "#FBBC04"}
+    - {title: "Sala E", color: "#EA4335"}
   timeslots:
     - {
-    	startTime: "08:30",
+    	startTime: "08:00",
     	endTime: "09:00",
-    	sessionIds: [023]
+    	sessionIds: [050]
     }
     - {
     	startTime: "09:00",
-    	endTime: "09:15",
-    	sessionIds: [024]
+    	endTime: "09:10",
+    	sessionIds: [055]
     }
     - {
-        startTime: "09:15",
-        endTime: "09:55",
-        sessionIds: [011]
+        startTime: "09:10",
+        endTime: "10:00",
+        sessionIds: [004]
     }
     - {
         startTime: "10:00",
         endTime: "10:40",
-        sessionIds: [001, 003]
+        sessionIds: [000, 008, 015, 001]
     }
     - {
         startTime: "10:40",
         endTime: "11:20",
-        sessionIds: [022, 020]
+        sessionIds: [000, 014, 010, 019]
     }
     - {
         startTime: "11:20",
         endTime: "12:00",
-        sessionIds: [015, 007]
+        sessionIds: [000, 002, 018, 022]
     }
     - {
         startTime: "12:00",
@@ -42,51 +44,51 @@
     }
     - {
         startTime: "13:00",
-        endTime: "13:40",
-        sessionIds: [012, 018]
+        endTime: "13:30",
+        sessionIds: [000, 009, 040, 016]
     }
     - {
-        startTime: "13:40",
-        endTime: "14:20",
-        sessionIds: [014, 021]
+        startTime: "13:30",
+        endTime: "14:05",
+        sessionIds: [000, 013, 040, 003]
     }
     - {
-        startTime: "14:20",
-        endTime: "15:00",
-        sessionIds: [019, 006]
+        startTime: "14:05",
+        endTime: "14:45",
+        sessionIds: [000, 021, 030, 012]
     }
     - {
-        startTime: "15:00",
-        endTime: "15:30",
+        startTime: "14:45",
+        endTime: "15:15",
+        sessionIds: [000,011, 030, 020]
+    }
+    - {
+        startTime: "15:15",
+        endTime: "15:40",
+        sessionIds: [000,005, 030, 023]
+    }
+    - {
+        startTime: "15:40",
+        endTime: "16:15",
+        sessionIds: [000,024, 030, 006]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "16:30",
         sessionIds: [307]
     }
     - {
-        startTime: "15:30",
-        endTime: "16:10",
-        sessionIds: [005, 016]
+        startTime: "16:30",
+        endTime: "17:10",
+        sessionIds: [000, 017, 035, 025]
     }
     - {
-        startTime: "16:10",
-        endTime: "16:50",
-        sessionIds: [010, 013]
-    }
-    - {
-        startTime: "16:50",
-        endTime: "17:30",
-        sessionIds: [009, 008]
-    }
-    - {
-        startTime: "17:30",
-        endTime: "18:10",
-        sessionIds: [002, 017]
-    }
-    - {
-        startTime: "18:10",
-        endTime: "18:50",
-        sessionIds: [004]
+        startTime: "17:10",
+        endTime: "17:50",
+        sessionIds: [007]
     }  
     - {
-        startTime: "18:50",
-        endTime: "19:00",
-        sessionIds: [025]
+        startTime: "17:50",
+        endTime: "18:10",
+        sessionIds: [060]
     } 
