@@ -366,3 +366,21 @@ Atualmente, estou aumentando meu escopo multidisciplinar agregando conhecimento 
 #    -
 #      link: "https://www.linkedin.com/in/maiavictor/"
 #      name: linkedin
+
+-
+  id: 26
+  name: Helena 
+  surname: Coutinho de Castro
+  company: Infobase IT
+  rockstar: true
+  title: "Desenvolvedora Android"
+  bio: "Mistura de humanas com exatas, formada em Letras
+Português/Francês, pela UERJ. Atualmente cursa Sistemas de
+Informação, e trabalha com desenvolvimento Android nativo com Java e
+Kotlin. Apaixonada por café, livros, felinos e games (não
+necessariamente nessa ordem)."
+  thumbnailUrl: helena_castro.jpg
+  social:
+    -
+      link: "https://www.linkedin.com/in/helenaccastro/"
+      name: linkedin
