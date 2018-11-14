@@ -1,4 +1,10 @@
 -
+  id: 000
+  title: "Sem Sessão"
+  place: "Auditório A"
+  service: true
+  description: "Neste momento as outras trilhas estarão acontecendo na Sala B, C e E."
+-
   id: 307
   title: "Coffee Break"
   place: "Hall"
@@ -220,6 +226,47 @@
   speakers: [23]
   language: pt-br
   complexity: "Iniciante"
+
+-
+  id: 024
+  title: "Kotlin - Um código, 3 plataformas"
+  description: "Como compartilhar sua regra de negócio entre Web, Android e iOS, usando Kotlin Native"
+  subtype: presentation
+  speakers: [24]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 025
+  title: "Construindo um computador mundial"
+  description: "Nessa palestra será explicado, de forma precisa, como Ethereum, o primeiro computador mundial, permite dar vida a aplicações online que são imunes a qualquer tentativa de ataque ou corrupção, seja esta vinda de um hacker, um bug não-intencional, um governo ou até mesmo o próprio criador."
+  subtype: presentation
+  speakers: [25]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 030
+  title: "Workshop Android"
+  description: "Workshop para ensinar o desenvolvimento de um app."
+  subtype: Workshop
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 035
+  title: "Painel de Diversidade"
+  description: "Painel que vai falar sobre diversidade nos eventos de tecnologia."
+  subtype: Workshop
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 040
+  title: "Mentoria"
+  description: "Alguns palestrantes vão ficar disponíveis para conversar sobre coisas técnicas e de carreira."
+  service: true  
+  language: pt-br
 -
   id: 050
   title: "Credenciamento"
