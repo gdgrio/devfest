@@ -146,7 +146,7 @@
   description: "Conheça todos os poderes que você pode adquirir ao modularizar seu aplicativo. Instant Apps, App bundle, Dynamic Delivery e muito mais"
   subtype: presentation
   speakers: [15]
-  language: en-us
+  language: pt-br
   complexity: "Intermediário"
 
 -
@@ -247,9 +247,14 @@
 
 -
   id: 030
-  title: "Workshop Android"
-  description: "Workshop para ensinar o desenvolvimento de um app."
-  subtype: Workshop
+  title: "Google Codelabs - Criando seu primeiro app Android em Kotlin"
+  description: "Criação de app Android simples em Kotlin. Vamos
+conhecer a interface do Android Studio; criar um emulador para rodar
+nosso app; criar layouts com a ferramenta de design e com código XML;
+tornar o app interativo com código Kotlin (como lidar com clicks de
+botões, como passar de uma tela para outra)."
+  subtype: workshop
+  speakers: [26]
   language: pt-br
   complexity: "Iniciante"
 
@@ -286,4 +291,10 @@
   place: ""
   service: true
 
+-
+  id: 070
+  title: "Atividade Indefinida"
+  place: "Auditório A"
+  service: true
+  description: "Estamos definindo essa sessão ainda, até o evento, tudo estará ajustado."
 
