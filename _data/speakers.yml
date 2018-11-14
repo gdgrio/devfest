@@ -353,16 +353,16 @@ Atualmente, estou aumentando meu escopo multidisciplinar agregando conhecimento 
       link: "https://www.linkedin.com/in/lucasdiego/"
       name: linkedin
 
--
-  id: 25
-  name: Victor
-  surname: Maia
-  company: Fundação Ethereum
-  rockstar: true
-  title: "Desenvolvedor"
-  bio: "Ainda cedo, Victor descobriu o mundo da programação desenvolvendo jogos em C, e, desde então, tem mantido a prática como hábito. Apaixonado por programação funcional, paralelismo e modelos computacionais, atualmente pesquisa sobre aplicação de provas formais a smart-contracts e DApps dentro da Fundação Ethereum e Stone Pagamentos."
-  thumbnailUrl: victork.jpg
-  social:
-    -
-      link: "https://www.linkedin.com/in/maiavictor/"
-      name: linkedin
+#-
+#  id: 25
+#  name: Victor
+#  surname: Maia
+#  company: Fundação Ethereum
+#  rockstar: true
+#  title: "Desenvolvedor"
+#  bio: "Ainda cedo, Victor descobriu o mundo da programação desenvolvendo jogos em C, e, desde então, tem mantido a prática como hábito. Apaixonado por programação funcional, paralelismo e modelos computacionais, atualmente pesquisa sobre aplicação de provas formais a smart-contracts e DApps dentro da Fundação Ethereum e Stone Pagamentos."
+#  thumbnailUrl: victork.jpg
+#  social:
+#    -
+#      link: "https://www.linkedin.com/in/maiavictor/"
+#      name: linkedin
