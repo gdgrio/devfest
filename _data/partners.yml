@@ -21,3 +21,4 @@
   className: "apoio"
   elements: 
     - {name: "HUB", description: "HUB", link: "http://www.ihub.network/", imageUrl: "hub.png",}
+    - {name: "Caelum", description: "Caelum", link: "https://www.caelum.com.br/", imageUrl: "caelum-logo.svg",}
