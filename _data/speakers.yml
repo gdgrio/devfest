@@ -176,7 +176,8 @@ Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web, faç
   company: ThoughtWorks
   rockstar: true
   title: "Senior Software Development Engineer"
-  bio: "Formada em Ciência da Computação pela UFBA, trabalho como programadora há mais de 10 anos, com habilidades mais fortes na área de Front-end. Tenho experiência com desenvolvimento de aplicações robustas em Angular. A paixão pela Ciência é o motor que me impulsiona a buscar respostas para os problemas que a computação pretende resolver. Já palestrou em eventos como DevFest (2017), DevCamp(2018) e FISL(2018). Participou das organização do Front In Campinas, na qual foi apresentadora do evento."
+  bio: "Formada em Ciência da Computação pela UFBA, trabalho como programadora há mais de 10 anos, com habilidades mais fortes na área de Front-end. Tenho experiência com desenvolvimento de aplicações robustas em Angular. A paixão pela Ciência é o motor que me impulsiona a buscar respostas para os problemas que a computação pretende resolver. Já palestrou em eventos como DevFest (2017), DevCamp(2018) e FISL(2018). Participou das organização do Front In Campinas, na qual foi apresentadora do evento.
+  Militante a favor da inclusão de diversidade dentro da Tecnologia está sempre mostrando os benefícios comprovados de ter pessoas diversas dentro da tecnologia, tendo em vista a ampliação dos pontos de vista. Sempre indicando e orientando comunidades em geral e empresas de tecnologia a realizar esse trabalho."
   thumbnailUrl: keilla_fernandes.jpg
   social:
     -
@@ -353,22 +354,8 @@ Atualmente, estou aumentando meu escopo multidisciplinar agregando conhecimento 
       link: "https://www.linkedin.com/in/lucasdiego/"
       name: linkedin
 
-#-
-#  id: 25
-#  name: Victor
-#  surname: Maia
-#  company: Fundação Ethereum
-#  rockstar: true
-#  title: "Desenvolvedor"
-#  bio: "Ainda cedo, Victor descobriu o mundo da programação desenvolvendo jogos em C, e, desde então, tem mantido a prática como hábito. Apaixonado por programação funcional, paralelismo e modelos computacionais, atualmente pesquisa sobre aplicação de provas formais a smart-contracts e DApps dentro da Fundação Ethereum e Stone Pagamentos."
-#  thumbnailUrl: victork.jpg
-#  social:
-#    -
-#      link: "https://www.linkedin.com/in/maiavictor/"
-#      name: linkedin
-
 -
-  id: 26
+  id: 25
   name: Helena 
   surname: Coutinho de Castro
   company: Infobase IT
@@ -383,4 +370,67 @@ necessariamente nessa ordem)."
   social:
     -
       link: "https://www.linkedin.com/in/helenaccastro/"
+      name: linkedin
+
+-
+  id: 26
+  name: Leonardo 
+  surname: Nascimento
+  company: Altran
+  rockstar: true
+  title: "Engenheiro de Software"
+  bio: "Leonardo Nascimento é Engenheiro de Software e Professor. Antes de trabalhar no BTG Pactual e de dar aulas no Instituto Infnet, trabalhou com pesquisa, no Tecgraf/PUC-Rio, e em uma startup, a PSafe Tecnologia. Desenvolvedor C++, C# e Python, têm mergulhado no mundo funcional com F#. Está deixando o Brasil para iniciar uma nova fase de sua carreira como Consultor e Engenheiro na Altran Portugal."
+  thumbnailUrl: leo_nascimento.png
+  social:
+    -
+      link: "https://www.linkedin.com/in/leocamello/"
+      name: linkedin
+
+-
+  id: 27
+  name: Douglas 
+  surname: Rocha
+  company: Revelolab
+  rockstar: true
+  title: "Engenheiro de Software"
+  bio: "Arquiteto empresarial de software fascinado pelas últimas tendências na área de engenharia de software e cloud computing. Ao longo da sua carreira trabalhou em diversas áreas e projetos, sendo alguns deles engenharia de petróleo em um projeto de otimização de produção para a Petrobras, em tecnologia financeira como CTO na InvestPro e atualmente com inteligência artificial aplicada na RelevoLab como arquiteto empresarial. Amante de domain driven design, arquiteturas baseadas em ELM e linguagens específicas de domínio."
+  thumbnailUrl: douglas_rocha.jpg
+  social:
+    -
+      link: "https://www.linkedin.com/in/rochad/"
+      name: linkedin
+
+-
+  id: 28
+  name: Thaly  
+  surname: Sanches
+  company: Games for Change
+  rockstar: true
+  title: "Social Entrepreneur | UX Strategist | Product Manager | Game designer"
+  bio: "Formada em design de mídia digital pela PUC-Rio com domínio adicional em empreendedorismo pela mesma, Mba em gestão empresarial e especialista em desenvolvimento de jogos pela Infnet. Empreendedores social, game designer e ux. Desenvolve jogos e projetos de impacto social com foco em representatividade, diversidade, inclusão e saúde mental que utilizem tecnologia. Também é product manager do Todxs App e integrante da games for change américa latina.
+  Seu trabalho como empreendedora social é ajudar pessoas que querem abrir uma iniciativa social, seja um projeto, uma ong, ou um negócio social onde negocios sociais são empresas que colocam o fator social acima dos lucros, empreendedores sociais buscam formas de resolver problemas sociais de forma auto sustentável e escalável, através de uma empresa https://www.yunusnegociossociais.com/o-que-so-negcios-sociais.
+  Um adendo, ela pode ter ou não distribuição de dividendos existem duas linhas de pensamentos a do yunus defende que não pode ter distribuição de dividendos e a artemísia defende ser opcional."
+  thumbnailUrl: thaly.jpg
+  social:
+    -
+      link: "https://www.linkedin.com/in/tathianaimpactdesign/"
+      name: linkedin
+
+-
+  id: 29
+  name: Fernanda   
+  surname: San Martin
+  company: Games for Change
+  rockstar: true
+  title: "Social Entrepreneur | UX Strategist | Product Manager | Game designer"
+  bio: "Cientista computacional empenhada na melhoria de saúde, segurança e defesa e meio ambiente. Faço Parte do Portal HackerCulture levando conhecimento em tecnologia a todos, valorizando os profissionais do mercado e mostrando eventos. Também sou da área de segurança Ofensiva, forense investigativo e perícia criminal ( física e computacional). Apoio comunidades (software livre/ freeBSD...) e projetos filantrópicos para disseminação de conhecimento em segurança da informação e em computação gráfica e etc…
+  Ajudando desde de criança a comunidade em que vive, já fez inúmeros trabalhos voluntários, inclusive na APAE e aos 18 anos começou a ensinar computação paras pessoas em projetos sociais, ajudando uma instituição no bairro de campo grande RJ , onde através de rifa conseguiram trazer internet, doação de computadores e ensinar as pessoas da instituição, mesmo com esse sucesso ela e seu sócio batalham em busca de um local.
+ Através da ajuda de pessoas que disponibilizaram locais o seu projeto conseguiu dar alguns cursos para comunidade e criando aulas online.
+ Com Software Freedom Day Rio foi aberto a toda comunidade e startups em especial moradores do Catete, fazendo cursinhos preparatórios pro CEH gratuito e online para todos.
+ Com a sua comunidade com o pessoal da igreja que emprestou um espaço para receber doações de alguns materiais, e atualmente tem como objetivo aproveitar o espaço para crianças e jovens estudar Blender e outros de computação gráfica com software livre e queremos depois ensinar as crianças a trabalhar com Arduino e programação aos poucos começando com brincadeiras e jogos para incentivar o pensamento de lógica de programação.
+ Atualmente ela está se envolvendo com projetos que enaltecem a cultura afro e de imigrantes."
+  thumbnailUrl: fernanda_martin.jpeg
+  social:
+    -
+      link: "hhttps://www.linkedin.com/in/san-martin-ba7120a3/"
       name: linkedin

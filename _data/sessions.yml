@@ -236,12 +236,22 @@
   language: pt-br
   complexity: "Iniciante"
 
+
 -
   id: 025
-  title: "Construindo um computador mundial"
-  description: "Nessa palestra será explicado, de forma precisa, como Ethereum, o primeiro computador mundial, permite dar vida a aplicações online que são imunes a qualquer tentativa de ataque ou corrupção, seja esta vinda de um hacker, um bug não-intencional, um governo ou até mesmo o próprio criador."
+  title: "Sejam bem-vindos ao início de uma nova carreira"
+  description: "Gostaria de mostrar como é fácil e rápido criar um ambiente de desenvolvimento de software no Google Cloud Platform. A falta de uma infraestrutura adequada para o desenvolvimento de software pode levar novos profissionais a desistir do desejo de iniciar uma carreira na área de TI."
   subtype: presentation
-  speakers: [25]
+  speakers: [26]
+  language: pt-br
+  complexity: "Iniciante"
+
+-
+  id: 026
+  title: "O que aprendi como CTO"
+  description: "O objetivo desta é apresentar um arcabouço de ferramentas técnicas e não técnicas para planejar o desenvolvimento tecnológico de uma empresa. Os focos principais serão a gerência e treinamento de profissionais, erros comuns que devem ser evitados e técnicas de modelagem de problema e software incluindo algumas táticas secretas pessoais."
+  subtype: presentation
+  speakers: [27]
   language: pt-br
   complexity: "Iniciante"
 
@@ -254,15 +264,15 @@ nosso app; criar layouts com a ferramenta de design e com código XML;
 tornar o app interativo com código Kotlin (como lidar com clicks de
 botões, como passar de uma tela para outra)."
   subtype: workshop
-  speakers: [26]
+  speakers: [25]
   language: pt-br
   complexity: "Iniciante"
 
 -
   id: 035
   title: "Painel de Diversidade"
-  description: "Painel que vai falar sobre diversidade nos eventos de tecnologia."
-  subtype: Workshop
+  description: "Nesse momento iremos levantar algumas das causas sociais existentes e os impactos positivos que eles trazem para sociedade, debatendo como podemos ajudar e incluir mais pessoas em tecnologia."
+  speakers: [12, 28, 29]
   language: pt-br
   complexity: "Iniciante"
 
