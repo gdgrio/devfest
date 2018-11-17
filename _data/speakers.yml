@@ -390,7 +390,7 @@ necessariamente nessa ordem)."
   id: 27
   name: Douglas
   surname: Rocha
-  company: Revelolab
+  company: "Relevo Lab"
   rockstar: true
   title: "Engenheiro de Software"
   bio: "Arquiteto empresarial de software fascinado pelas últimas tendências na área de engenharia de software e cloud computing. Ao longo da sua carreira trabalhou em diversas áreas e projetos, sendo alguns deles engenharia de petróleo em um projeto de otimização de produção para a Petrobras, em tecnologia financeira como CTO na InvestPro e atualmente com inteligência artificial aplicada na RelevoLab como arquiteto empresarial. Amante de domain driven design, arquiteturas baseadas em ELM e linguagens específicas de domínio."
