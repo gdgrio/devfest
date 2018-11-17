@@ -217,7 +217,7 @@
   title: "Small Data: o que é, onde vive, para que serve?"
   description: "Vou mostrar a diferença entre o Big Data e o
                 Small Data e aplicação do Small Data nos negócios que vão ter sucesso no futuro.
-                Em um mundo repleto de dados online e estudos sobre esses dados, vou responder: 
+                Em um mundo repleto de dados online e estudos sobre esses dados, vou responder:
                 O que é o Small Data?
                 Onde o Small Data se encaixa e ajuda nos negócios online?
                 Podemos usar o Small Data na nossa vida pessoal?
@@ -272,7 +272,7 @@ botões, como passar de uma tela para outra)."
   id: 035
   title: "Bate-Papo da Inclusão: Vem discutir como podemos melhorar"
   description: "Nesse momento iremos levantar algumas das causas sociais existentes e os impactos positivos que eles trazem para sociedade, debatendo como podemos ajudar e incluir mais pessoas em tecnologia."
-  speakers: [12, 28, 29]
+  speakers: [12, 28, 29, 30]
   language: pt-br
   complexity: "Iniciante"
 
@@ -280,7 +280,7 @@ botões, como passar de uma tela para outra)."
   id: 040
   title: "Mentoria"
   description: "Alguns palestrantes vão ficar disponíveis para conversar sobre coisas técnicas e de carreira."
-  service: true  
+  service: true
   language: pt-br
 -
   id: 050

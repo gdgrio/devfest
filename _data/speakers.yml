@@ -112,7 +112,7 @@ Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web, faç
 
 -
   id: 8
-  name: Marco 
+  name: Marco
   surname: Ollivier
   company: M4U
   rockstar: true
@@ -129,7 +129,7 @@ Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web, faç
 
 -
   id: 9
-  name: Bruna  
+  name: Bruna
   surname: Dolavale
   company: FGV
   rockstar: true
@@ -168,7 +168,7 @@ Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web, faç
     -
       link: "https://www.linkedin.com/in/rafaelcruzmvp"
       name: linkedin
-  
+
 -
   id: 12
   name: Keilla
@@ -186,7 +186,7 @@ Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web, faç
 
 -
   id: 13
-  name: Silvia 
+  name: Silvia
   surname: R Blumberg
   company: ArtECOletiva
   rockstar: true
@@ -214,7 +214,7 @@ Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web, faç
 
 -
   id: 15
-  name: Renan 
+  name: Renan
   surname: Barros da Silva
   company: Stone Pagamentos
   rockstar: true
@@ -228,7 +228,7 @@ Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web, faç
 
 -
   id: 16
-  name: Eduardo  
+  name: Eduardo
   surname: Florence
   company: Gemini Tecnologia
   rockstar: true
@@ -242,7 +242,7 @@ Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web, faç
 
 -
   id: 17
-  name: Gustavo  
+  name: Gustavo
   surname: Gonçalves
   company: PUC-Rio
   rockstar: true
@@ -312,7 +312,7 @@ Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web, faç
 
 -
   id: 22
-  name: Vinicius 
+  name: Vinicius
   surname: Mello
   company: Visagio Tecnologia
   rockstar: true
@@ -331,7 +331,7 @@ Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web, faç
   company: Hurb
   rockstar: true
   title: "Desenvolvedor de Software"
-  bio: "Sou desenvolvedor desde de 2013, com foco em Javascript AngularJs 1.x, Angular 2/4, ReactJs e NodeJs, aplicações mobile híbridas com Ionic 2/3 e React Native. Formando em Tecnologia em Sistemas da Informação pelo Instituto Infnet. 
+  bio: "Sou desenvolvedor desde de 2013, com foco em Javascript AngularJs 1.x, Angular 2/4, ReactJs e NodeJs, aplicações mobile híbridas com Ionic 2/3 e React Native. Formando em Tecnologia em Sistemas da Informação pelo Instituto Infnet.
 Extensa experiência no desenvolvimento de temas e plugins para WordPress (filters, actions, custom post types, entre outros) e WooCommerce.  Além de know-how em linguagens de back-end como Ruby, PHP e em banco de dados SQL e NoSQL (MySQL e MongoDB).
 Atualmente, estou aumentando meu escopo multidisciplinar agregando conhecimento em UX, Produto e Empreendedorismo."
   thumbnailUrl: digo_ribeiro.jpg
@@ -356,7 +356,7 @@ Atualmente, estou aumentando meu escopo multidisciplinar agregando conhecimento 
 
 -
   id: 25
-  name: Helena 
+  name: Helena
   surname: Coutinho de Castro
   company: Infobase IT
   rockstar: true
@@ -374,7 +374,7 @@ necessariamente nessa ordem)."
 
 -
   id: 26
-  name: Leonardo 
+  name: Leonardo
   surname: Nascimento
   company: Altran
   rockstar: true
@@ -388,9 +388,9 @@ necessariamente nessa ordem)."
 
 -
   id: 27
-  name: Douglas 
+  name: Douglas
   surname: Rocha
-  company: Revelolab
+  company: "Relevo Lab"
   rockstar: true
   title: "Engenheiro de Software"
   bio: "Arquiteto empresarial de software fascinado pelas últimas tendências na área de engenharia de software e cloud computing. Ao longo da sua carreira trabalhou em diversas áreas e projetos, sendo alguns deles engenharia de petróleo em um projeto de otimização de produção para a Petrobras, em tecnologia financeira como CTO na InvestPro e atualmente com inteligência artificial aplicada na RelevoLab como arquiteto empresarial. Amante de domain driven design, arquiteturas baseadas em ELM e linguagens específicas de domínio."
@@ -402,7 +402,7 @@ necessariamente nessa ordem)."
 
 -
   id: 28
-  name: Thaly  
+  name: Thaly
   surname: Sanches
   company: Games for Change
   rockstar: true
@@ -418,7 +418,7 @@ necessariamente nessa ordem)."
 
 -
   id: 29
-  name: Fernanda   
+  name: Fernanda
   surname: San Martin
   company: Games for Change
   rockstar: true
@@ -434,3 +434,12 @@ necessariamente nessa ordem)."
     -
       link: "hhttps://www.linkedin.com/in/san-martin-ba7120a3/"
       name: linkedin
+
+-
+  id: 30
+  name: Dominique
+  surname: da Silva
+  rockstar: true
+  title: "Professor"
+  bio: "Dominique trabalha com desenvolvimento de materiais acessíveis pedagógicos, atualmente está participando de um projeto de inovação dentro da periferia, que leva tecnologia pra dentro das comunidades, junto a isso está desenvolvendo um game com outros 5 jovens negros de periferia e também levando para as escolas o conhecimento criativo com a ferramenta Scrath."
+  thumbnailUrl: dominique_da_silva.jpg
